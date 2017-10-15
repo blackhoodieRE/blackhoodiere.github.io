@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Registration"
+    url: /registration/
+  - title: "Schedule"
+    url: /schedule/
