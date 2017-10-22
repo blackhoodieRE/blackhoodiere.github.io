@@ -5,7 +5,7 @@ excerpt: "Building a Community"
 modified: 2017-08-08T19:44:38.564948-04:00
 permalink: /about/
 header:
-    image: /assets/images/panel1.jpg
+    image: /assets/images/banner_1.png
 ---
 Blackhoodie is a free, women only reverse engineering workshop.
 
