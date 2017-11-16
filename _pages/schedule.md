@@ -28,7 +28,7 @@ Blackhoodie #3 will be held at the offices of CIRCL, the Computer Incident Respo
 |02:30| Network Forensics - Follow the Bad Rabbit down the wire | Casheeew |
 |03:00| Tracing/MitM between phone and SIM card with SIMtrace | Chrysh |
 |03:30| ------------------------------  Break
-|04:00| Windows Internals - studies around the shim engine | Gaby |
+|04:00| Windows Internals - studies around the kernel shim engine | Gaby |
 |04:30| Malware analysis for policy muggles | marasawr |
 |05:00| Greetings | PinkFlawd |
 |05:30| Thank you / Lightning talks / round table | ALL |
