@@ -26,9 +26,7 @@ Blackhoodie is a free, women only reverse engineering workshop.
 
 * There won't be slides, there will be you, and your debugger, only.
 * Online preparation assignments, 4 of them, over the course of two months prior to the workshop
-* Workshop 25./26. of November at CIRCL offices, Luxembourg
 * No fees, no strings attached, all you have to do is get there
-* Please register with your name or nickname and a short note about your background at blackhoodie at 0x1338 .at
 
 
 ## Prerequisites
