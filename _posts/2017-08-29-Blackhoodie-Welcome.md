@@ -14,3 +14,5 @@ Finally, I'm insanely thrilled this will be happening again. I'm looking forward
 For more info about Blackhoodie, check out the about page [here](/about/).
 
 Registration and Schedule info is [here](/registration), and [here](/schedule).
+
+-- [Mari0n](https://twitter.com/pinkflawd)
