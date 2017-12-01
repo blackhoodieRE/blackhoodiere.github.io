@@ -17,10 +17,10 @@ Blackhoodie is a free, women only reverse engineering workshop.
 
 * I've had girls in my classes before, hiding and holding back although I am so certain they would have been capable to be so much better than what their final results showed. So yeah this will be women only, for every female should feel welcomed and encouraged to do her best and get the most out of it.
 
-## Why more women in low-level technical jobs in general? 
+## Why more women in low-level technical jobs in general?
 * It’s difficult. Mastering something difficult makes you happy. I want all of you to be happy.
 * It pays well. While money makes you also happy, what’s more important, it gives you courage and independence.
-* It keeps you busy. Lots of open job positions globally, even better, believe it or not it is addictive and you might even find yourself a new hobby. 
+* It keeps you busy. Lots of open job positions globally, even better, believe it or not it is addictive and you might even find yourself a new hobby.
 
 ## Hardfacts
 
@@ -38,3 +38,5 @@ Blackhoodie is a free, women only reverse engineering workshop.
 * A Notebook capable of running at least one virtual machine
 * A virtual machine, preferred WinXP 32-bit
 * Guts :) (It is going to be a lot to learn in a very short time)
+
+-- [Mari0n](https://twitter.com/pinkflawd)
