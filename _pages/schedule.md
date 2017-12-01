@@ -10,4 +10,3 @@ header:
 
 Watch this space for news about \#BlackHoodie18 - 4th Edition!
 
----
