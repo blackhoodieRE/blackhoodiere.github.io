@@ -23,9 +23,9 @@ header:
 |12:30| ------------------------------  Lunch Time
 |02:00| Sandbox evasion using junk (stalling) code | Myshelle |
 |02:30| [Network Forensics - Follow the Bad Rabbit down the wire](/assets/archive/network_forensics_-_essy.pdf) | [Casheeew](https://twitter.com/casheeew) |
-|03:00| Tracing/MitM between phone and SIM card with SIMtrace | Chrysh |
+|03:00| Tracing/MitM between phone and SIM card with SIMtrace | [Chrysh](https://twitter.com/chrysh4) |
 |03:30| ------------------------------  Break
-|04:00| Windows Internals - studies around the kernel shim engine | [Gaby](https://twitter.com/pwissenlit) |
+|04:00| [Kernel Shim Engine for fun](/assets/archive/Kernel_Shim_Engine_for_fun_-_pwissenlit.pdf) | [Gaby](https://twitter.com/pwissenlit) |
 |04:30| Malware analysis for policy muggles | [marasawr](https://twitter.com/marasawr) |
 |05:00| Greetings | [Mari0n](https://twitter.com/pinkflawd) |
 |05:30| Thank you / Lightning talks / round table | ALL |
@@ -50,7 +50,7 @@ header:
 |09:00| Tele-communication security | [Priya](https://twitter.com/priyachalakkal) |
 |11:05| Virtualization | [Cbelle](https://twitter.com/cbelle1234) |
 |13:00| ------------------------------  Lunch Time
-|14h30| [Kernel Shim Engine for fun](/assets/archive/Kernel_Shim_Engine_for_fun_-_pwissenlit.pdf) | [Gaby](https://twitter.com/pwissenlit) |
+|14h30| Intro into the Windows kernel | [Gaby](https://twitter.com/pwissenlit) |
 
 
 ---
