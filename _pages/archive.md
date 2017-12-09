@@ -17,7 +17,7 @@ header:
 | Time | Talk | Presenter |
 | :--- | :--- | :--- |
 |10:00| Arrival & Welcome | Blackhoodie alumnae |
-|11:00| Flash dumping | [Kylma](https://twitter.com/_kylma) |
+|11:00| [Flash dumping](/assets/archive/flash_dumping_-_kylma.pdf) | [kylma](https://twitter.com/_kylma) |
 |11:30| [SMT solvers in malware analysis](/assets/archive/debfuscation_smt_solvers_barbie.pdf) | [barbie](https://twitter.com/barbieauglend) |
 |12:00| Monitoring engineers with the cloud | [Carly](https://twitter.com/_5chn31d3r_) |
 |12:30| ------------------------------  Lunch Time
