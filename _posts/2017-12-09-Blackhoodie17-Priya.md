@@ -12,6 +12,8 @@ BlackHoodie 2017 (BlackHoodie17) definitely takes the previous versions of Black
 
 From the second day, there were two different tracks. Track 1, the main track, was held by Marion. This is the beginners track for reversing where new comers are introduced to basic reversing techniques and malware analysis. The attendees are expected to start the preparations a month ago by setting up a VM and playing with the necessary tools. During the event, the first day is spent on learning basic principles of reversing as well as malware analysis. The second day is mostly into reversing a rather big binary of an IRC bot.
 
+![Blackhoodie17](../assets/images/bh17.jpg)
+
 I did hop in and off the Track 1 at times when I really felt curious to see how they are progressing, but I was mostly into the Track 2 this year. The Track 2 included advanced reversing and many other core topics. This included topics such as ARM exploitation, deobfuscation with Miasm using Symbolic Execution, Telecommunication security, Virtualization, and Windows Kernel reversing.
 
 I enjoyed almost all the sessions in Track 2. It was also a privilege to give a session myself. By the end of two days, I really wished that BlackHoodie was extended for one more day. It is indeed hard to explain the special feeling to be in the middle of a group of enthusiast women in security. It gave me a sense of comfort, hope and a lot of positive vibes.
