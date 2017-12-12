@@ -26,7 +26,7 @@ header:
 |03:00| Tracing/MitM between phone and SIM card with SIMtrace | [Chrysh](https://twitter.com/chrysh4) |
 |03:30| ------------------------------  Break
 |04:00| [Kernel Shim Engine for fun](/assets/archive/Kernel_Shim_Engine_for_fun_-_pwissenlit.pdf) | [Gaby](https://twitter.com/pwissenlit) |
-|04:30| Malware analysis for policy muggles | [marasawr](https://twitter.com/marasawr) |
+|04:30| [Malware analysis for policy muggles](/assets/archive/malware_analysis_policy_-_marasawr.pdf) | [marasawr](https://twitter.com/marasawr) |
 |05:00| Greetings | [Mari0n](https://twitter.com/pinkflawd) |
 |05:30| Thank you / Lightning talks / round table | ALL |
 
