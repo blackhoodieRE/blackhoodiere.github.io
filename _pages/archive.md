@@ -30,6 +30,7 @@ header:
 |05:00| Greetings | [Mari0n](https://twitter.com/pinkflawd) |
 |05:30| Thank you / Lightning talks / round table | ALL |
 
+
 **Saturday November 25th, 2017**
 
 ##### Location: Room B
@@ -41,6 +42,7 @@ header:
 |13:00| ------------------------------  Lunch Time
 |14h30| Deobfuscation with Miasm using Symbolic Execution | [Noutoff](https://twitter.com/__noutoff__) |
 
+
 **Sunday November 26th, 2017**
 
 ##### Location: Room B
@@ -51,6 +53,13 @@ header:
 |11:05| Virtualization | [Cbelle](https://twitter.com/cbelle1234) |
 |13:00| ------------------------------  Lunch Time
 |14h30| Intro into the Windows kernel | [Gaby](https://twitter.com/pwissenlit) |
+
+
+
+##### Impressions from Blackhoodie17
+
+| [Yet another edition of BlackHoodie](https://insinuator.net/2017/12/yet-another-edition-of-blackhoodie-blackhoodie17/) by [Priya](https://twitter.com/priyachalakkal) |
+| [Blackhoodie17, of reverse and women](https://www.digitalsecurity.fr/en/blog/blackhoodie17-reverse-and-women) by [N1aKan](https://twitter.com/N1aKan) |
 
 
 ---
