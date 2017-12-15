@@ -19,7 +19,7 @@ header:
 |10:00| Arrival & Welcome | Blackhoodie alumnae |
 |11:00| [Flash dumping](/assets/archive/flash_dumping_-_kylma.pdf) | [kylma](https://twitter.com/_kylma) |
 |11:30| [SMT solvers in malware analysis](/assets/archive/debfuscation_smt_solvers_barbie.pdf) | [barbie](https://twitter.com/barbieauglend) |
-|12:00| Monitoring engineers with the cloud | [Carly](https://twitter.com/_5chn31d3r_) |
+|12:00| [Monitoring engineers with the cloud](/assets/archive/Eng_with_Cloud_Carly.pdf) | [Carly](https://twitter.com/_5chn31d3r_) |
 |12:30| ------------------------------  Lunch Time
 |02:00| Sandbox evasion using junk (stalling) code | Myshelle |
 |02:30| [Network Forensics - Follow the Bad Rabbit down the wire](/assets/archive/network_forensics_-_essy.pdf) | [Casheeew](https://twitter.com/casheeew) |
@@ -50,7 +50,7 @@ header:
 | Time | Talk | Presenter |
 | :--- | :--- | :--- |
 |09:00| [Tele-communication security](/assets/archive/VoLTE_And_VoWiFi_Priya.pdf) | [Priya](https://twitter.com/priyachalakkal) |
-|11:05| Virtualization | [Cbelle](https://twitter.com/cbelle1234) |
+|11:05| [Virtualization](/assets/archive/virtualization_cbelle.pdf) | [Cbelle](https://twitter.com/cbelle1234) |
 |13:00| ------------------------------  Lunch Time
 |14h30| Intro into the Windows kernel | [Gaby](https://twitter.com/pwissenlit) |
 
