@@ -23,7 +23,7 @@ header:
 |12:30| ------------------------------  Lunch Time
 |02:00| Sandbox evasion using junk (stalling) code | Myshelle |
 |02:30| [Network Forensics - Follow the Bad Rabbit down the wire](/assets/archive/network_forensics_-_essy.pdf) | [Casheeew](https://twitter.com/casheeew) |
-|03:00| Tracing/MitM between phone and SIM card with SIMtrace | [Chrysh](https://twitter.com/chrysh4) |
+|03:00| [Tracing/MitM between phone and SIM card with SIMtrace](/assets/archive/SIM_Trace_chrysh.pdf) | [Chrysh](https://twitter.com/chrysh4) |
 |03:30| ------------------------------  Break
 |04:00| [Kernel Shim Engine for fun](/assets/archive/Kernel_Shim_Engine_for_fun_-_pwissenlit.pdf) | [Gaby](https://twitter.com/pwissenlit) |
 |04:30| [Malware analysis for policy muggles](/assets/archive/malware_analysis_policy_-_marasawr.pdf) | [marasawr](https://twitter.com/marasawr) |
