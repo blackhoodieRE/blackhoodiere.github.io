@@ -2,7 +2,7 @@
 layout: single
 title: About Blackhoodie
 excerpt: "Building a Community"
-modified: 2017-08-08T19:44:38.564948-04:00
+modified: 2018-06-16T00:44:38.564948-04:00
 permalink: /about/
 header:
     image: /assets/images/banner_1.png
@@ -36,5 +36,17 @@ Blackhoodie is a free, women only reverse engineering workshop.
 * A Notebook capable of running at least one virtual machine
 * A virtual machine, preferred WinXP 32-bit
 * Guts :) (It is going to be a lot to learn in a very short time)
+
+### WHY ARE WE DOING THIS
+
+The concept of women-only has no intention of pulling up walls or feeling exclusive, we don't need special help, don't need to be prefered by anything or anyone. I repeat, none of us could give less f*** about being granted a single thing based on our gender.
+
+Blackhoodie is about creating space in an industry that's by definition offensive and very competitive, it is a special invitation for talents who wouldn't otherwise find the courage to start hacking on their own. It is a place, where attendees feel encouraged to grow skills without pressure, where they can be themselves without having to compete.
+
+No, we don't need a safe spot in this big bad world, we want to build our own magic fortress to teach ourselves magic tricks and to make the rest of the world feel unsafe.
+
+And, it works. BlackHoodie alumnis have gone far beyond all expectations since the workshop series started. They now hack minesweeper into showing where the damn flags are, give talks at international conferences on how to reconstruct C++ class hierarchies with SMT solvers, or how to gain code execution from XSS abusing the Electron framework, they hold workshops on car hacking, on ARM shellcode writing, on Windows kernel shim abuse. They serve on conference review boards, including BlackHat our industry's prime venue, and are listed on the prestigious Forbes 30under30 list. I kid you not, most of the BlackHoodie attendees haven't stuck their noses into security research before they joined the bootcamp.
+
+Why so successful you wonder? There are plenty of women out there who are ready to kill, but aren't sure where to begin. BlackHoodie offers an easy start with a complex topic, packaged up with a courage boost and a neat network of contacts in the industry. This package, paired with the incomparable drive of a chronically underestimated minority, gives the ladies superpowers.
 
 -- [Mari0n](https://twitter.com/pinkflawd)
