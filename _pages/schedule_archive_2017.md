@@ -1,7 +1,7 @@
 ---
 layout: single
 title:
-excerpt: "Archiv Blackhoodie"
+excerpt: "Archiv Blackhoodie 2017"
 modified: 2017-08-08T19:44:38.564948-04:00
 permalink: /archive/bh2017/
 header:
