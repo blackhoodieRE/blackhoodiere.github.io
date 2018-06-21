@@ -3,7 +3,7 @@ layout: single
 title: "BlackHoodie #4 - rocking as hell"
 exerpt: "Reverse Engineering Workshop for women"
 tags: [reverse engineering, security, malware, blackhoodie]
-date: 2018-06-21T00:44:38.564948-04:00
+date: 2018-06-20T00:44:38.564948-04:00
 ---
 
 We roll again, Berlin November 16-18! 3 tracks of workshops, two introductory ones, one  advanced; one track is me yelling my usual litany, the other two are entirely held by former attendees and will feature topics of their likings. That might or might not include Windows kernel, ARM, car hacking, yada yada, yes we now hack everything, did I mention that?  Former BlackHoodies keep blowing my mind with their advances in not only RE but oh so many different areas. I keep on thinking we might in the end indeed change an industry. Speaking of which, you can be part of it. BlackHoodie #4 will again be free, women-only and super challenging. ALSO, we will again have a one day conference before the workshops, cause two days apparently are not enough! CFP is now [open](https://cfp.hack.lu/blackhoodie18/).
