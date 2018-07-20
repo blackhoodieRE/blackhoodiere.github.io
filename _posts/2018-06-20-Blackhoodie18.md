@@ -10,11 +10,11 @@ We roll again, Berlin November 16-18! 3 tracks of workshops, two introductory on
 
 And here go the hard facts:
 
-__When__: November 16-18, 2018  
-__Where__: HERE Offices Berlin, Germany  
-__What__: 1-day conference on Friday, 2-day workshops Saturday/Sunday  
-__Registration__: send an e-mail with name or nickname + a little on who you are and what you do, AND the preferred workshop to [registration@blackhoodie.re](mailto:registration@blackhoodie.re)  
-**REGISTRATION CLOSES**: August 31st  
+__When__: November 16-18, 2018
+__Where__: HERE Offices Berlin, Germany
+__What__: 1-day conference on Friday, 2-day workshops Saturday/Sunday
+__Registration__: send an e-mail with name or nickname + a little on who you are and what you do, AND the preferred workshop to [registration@blackhoodie.re](mailto:registration@blackhoodie.re)
+**REGISTRATION CLOSES**: ~~August 31st~~ Already closed!  
 __Travel__: We will have a limited number of grants for people who cannot afford the trip on their own. Please note that the grants will be distributed by random selection.
 
 ## THE WORKSHOPS
@@ -79,17 +79,17 @@ __PLEASE NOTE__ registrations must include a short info on who you are and what 
 
 ### WHY ARE WE DOING THIS
 
-The concept of women-only has no intention of pulling up walls or feeling exclusive, we don't need special help, don't need to be prefered by anything or anyone. I repeat, none of us could give less f*** about being granted a single thing based on our gender. 
+The concept of women-only has no intention of pulling up walls or feeling exclusive, we don't need special help, don't need to be prefered by anything or anyone. I repeat, none of us could give less f*** about being granted a single thing based on our gender.
 
-Blackhoodie is about creating space in an industry that's by definition offensive and very competitive, it is a special invitation for talents who wouldn't otherwise find the courage to start hacking on their own. It is a place, where attendees feel encouraged to grow skills without pressure, where they can be themselves without having to compete. 
+Blackhoodie is about creating space in an industry that's by definition offensive and very competitive, it is a special invitation for talents who wouldn't otherwise find the courage to start hacking on their own. It is a place, where attendees feel encouraged to grow skills without pressure, where they can be themselves without having to compete.
 
-And, it works. BlackHoodie alumnis have gone far beyond all expectations since the workshop series started. They now hack minesweeper into showing where the damn flags are, give talks at international conferences on how to reconstruct C++ class hierarchies with SMT solvers, or how to gain code execution from XSS abusing the Electron framework, they hold workshops on car hacking, on ARM shellcode writing, on Windows kernel shim abuse. 
+And, it works. BlackHoodie alumnis have gone far beyond all expectations since the workshop series started. They now hack minesweeper into showing where the damn flags are, give talks at international conferences on how to reconstruct C++ class hierarchies with SMT solvers, or how to gain code execution from XSS abusing the Electron framework, they hold workshops on car hacking, on ARM shellcode writing, on Windows kernel shim abuse.
 
-They serve on conference review boards, including BlackHat our industry's prime venue, and are listed on the prestigious Forbes 30under30 list. I kid you not, most of the BlackHoodie attendees haven't stuck their noses into security research before they joined the bootcamp. 
+They serve on conference review boards, including BlackHat our industry's prime venue, and are listed on the prestigious Forbes 30under30 list. I kid you not, most of the BlackHoodie attendees haven't stuck their noses into security research before they joined the bootcamp.
 
-Why so successful you wonder? There are plenty of women out there who are ready to kill, but aren't sure where to begin. BlackHoodie offers an easy start with a complex topic, packaged up with a courage boost and a neat network of contacts in the industry. This package, paired with the incomparable drive of a chronically underestimated minority, gives the ladies superpowers. 
+Why so successful you wonder? There are plenty of women out there who are ready to kill, but aren't sure where to begin. BlackHoodie offers an easy start with a complex topic, packaged up with a courage boost and a neat network of contacts in the industry. This package, paired with the incomparable drive of a chronically underestimated minority, gives the ladies superpowers.
 
-__REGISTRATION__: [https://pretix.eu/blackhoodie18/registration/ ](https://pretix.eu/blackhoodie18/registration/ )  
+__REGISTRATION__: [https://pretix.eu/blackhoodie18/registration/ ](https://pretix.eu/blackhoodie18/registration/ )
 __CALL FOR TALKS AND WORKSHOPS__: [https://cfp.hack.lu/blackhoodie18/](https://cfp.hack.lu/blackhoodie18/)
 
 -- [Mari0n](https://twitter.com/pinkflawd)
