@@ -34,7 +34,7 @@ Maria ‘Azeria’ Markstedter will be teaching students to reverse engineer and
 Capacity: 30 
 
 Registration link: [Link]( https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2Oxl-hXjyFAmcwn3HeHLlRUMVRMRjhGRDU1N0VTRTVGMzFBUVRBREE5Mi4u)  
-Registration timeline: Registration will open 14th August 2018 at Noon and will remain open till slots are available. Seats will be alloted on a first come first served basis.  
+Registration timeline: Registration will open 14th August 2018 at Noon and will remain open till slots are available. Seats will be allotted on a first come first served basis.  
   
 Finally, please note that we cannot cover travel or housing for attendees. There may be snacks and some form of caffeine :). More details will be communicated prior to the event. 
 
