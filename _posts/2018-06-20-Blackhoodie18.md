@@ -10,10 +10,10 @@ We roll again, Berlin November 16-18! 3 tracks of workshops, two introductory on
 
 And here go the hard facts:
 
-__When__: November 16-18, 2018
-__Where__: HERE Offices Berlin, Germany
-__What__: 1-day conference on Friday, 2-day workshops Saturday/Sunday
-__Registration__: send an e-mail with name or nickname + a little on who you are and what you do, AND the preferred workshop to [registration@blackhoodie.re](mailto:registration@blackhoodie.re)
+__When__: November 16-18, 2018   
+__Where__: HERE Offices Berlin, Germany   
+__What__: 1-day conference on Friday, 2-day workshops Saturday/Sunday   
+__Registration__: send an e-mail with name or nickname + a little on who you are and what you do, AND the preferred workshop to [registration@blackhoodie.re](mailto:registration@blackhoodie.re)   
 **REGISTRATION CLOSES**: ~~August 31st~~ Already closed!  
 __Travel__: We will have a limited number of grants for people who cannot afford the trip on their own. Please note that the grants will be distributed by random selection.
 
