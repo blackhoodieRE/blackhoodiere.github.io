@@ -17,7 +17,7 @@ Who: Women
 This event will have two tracks.   
 
 ### Track 1: Intro to malware RE 
-Bhavna Soman will be teaching Introduction to Reverse Engineering Malware. Students will go over the basics of x86 and IDAPro, and use that to analyze real world malware samples (VM set up instructions will be provided beforehand). They will learn common techniques that malware authors use to evade detection and analysis. Finally, they’ll be provided with challenge binaries to test their new RE skillz.  
+Bhavna Soman will be teaching Introduction to Reverse Engineering Malware. Students will go over the basics of x86 and IDAPro, and use that to analyze real world malware samples (VM set up instructions will be provided beforehand). They will learn common techniques that malware authors use to evade detection and analysis. Finally, they’ll be provided with challenge binaries to test their new RE skillz. This workshop will be supported by [Marion](https://twitter.com/pinkflawd) and Anna Trikalinou.  
 *Prerequisites:*
 - Ideally some form of computer science background 
 - Laptop with minimum 8GB RAM and 25GB free disk space for VM 
