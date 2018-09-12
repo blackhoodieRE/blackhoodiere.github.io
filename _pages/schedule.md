@@ -2,36 +2,56 @@
 layout: single
 title: Schedule
 excerpt: "Schedule for Blackhoodie"
-modified: 2018-06-16T00:44:38.564948-04:00
+modified: 2018-09-16T00:44:38.564948-04:00
 permalink: /schedule/
 header:
     image: /assets/images/banner_1.png
 ---
 
-It is official! \#BlackHoodie18 - 4th Edition - the free reverse engineering workshop for women - is taking place between the 16th and the 18th of November in Berlin! __And you can be part of it!!__
+**#BlackHoodie18 -4th Edition**
 
-We are looking for short talks of 20 minutes, longer talks of 40 minutes and lightning talks of 5 to 10 minutes. Workshops duration  are up to the trainer but we encourage slots of either half a day (~3/4h) or a full day (~7h).
+**Friday, November 16th, 2018**
 
-The submissions will be accepted until August, 15th. Talks and workshops will be selected and announced on _September, 1st_.
+##### Location: Welcome Party!
 
-Note that this is a free event so, we can't reimburse travel or accommodation costs for speakers. All the fun is shared with the attendees (even the "speakers dinner")!
+| Time | Talk | Presenter |
+| :--- | :--- | :--- |
+|09:00| Arrival & Welcome | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
+|09:15| TBA | TBA |
+|10:00| TBA | TBA |
+|10:25| Malware dissection 101 : TinyNuke | [Nha-Khanh Nguyen](https://twitter.com/N1aKan) |
+|10:45| ------------------------------  Break
+|11:00| Linux servers under siege: a real case forensic analysis of a cryptocurrency miner attack | [Veronica Valeros](https://twitter.com/verovaleros) |
+|11:45| Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root | anais |
+|12:10| Arming malware with GANs | [Maria Rigaki](https://twitter.com/mrigaki) |
+|12:30| ------------------------------  Lunch
+|13:30| Beating a heavily obfuscated app | [Laura Tich & Evelyn Kilel](https://twitter.com/shehacks_ke) |
+|14:15| TBA | TBA |
+|15:00| JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript | Aurore Fass |
+|15:25| TBA | TBA |
+|15:45| ------------------------------  Break
+|16:00| Linux Security APIs and the Chromium Sandbox | [Patricia Aas](https://twitter.com/pati_gallardo) |
+|16:45| Hidden in plain sight | [Essy](https://twitter.com/casheeew) |
+|17:30| Kick-off | [Mari0n](https://twitter.com/pinkflawd) |
 
-Please submit [here](https://cfp.hack.lu/blackhoodie18/submit/).
 
-We are all very much looking forward to it!
+**Saturday November 17th, 2018 from 9:00am**
 
-**Blackhoodie Committee**
+| Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
+| :--- | :--- | :--- | :--- |
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | TBA |
+|13:00|   | LUNCH |   |
+|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | TBA |
 
-* [Mari0n](https://twitter.com/pinkflawd)
-* [Barbie](https://twitter.com/barbieauglend)
-* [Gwaby](https://twitter.com/pwissenlit)
-* [Ninon](https://twitter.com/__noutoff__)
-* [Priya](https://twitter.com/priyachalakkal)
-* Bhavna
-* Maria 
+###### Opening lightning talk on on-my-way-to-rock-as-hell: Enter The Matrix (Ransomware) by Luca Nagy
 
-**Contact**
 
-If you have ANY questions about submissions, conference, blackhoodie and so on, feel free to check [https://www.blackhoodie.re/](https://www.blackhoodie.re/ ) or contact ANY of us. You can also send us an [e-mail](mailto:cfp@blackhoodie.re).
+**Sunday November 18th, 2018 from 9:00am**
 
-Moar infos: [https://cfp.hack.lu/blackhoodie18/](https://cfp.hack.lu/blackhoodie18/).
+| Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
+| :--- | :--- | :--- | :--- |
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | TBA | Introduction to Return Oriented Programming by [chiliz](https://twitter.com/chiliz16) |
+|13:00|   | LUNCH |   |
+|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | TBA | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
+
+###### Opening lightning talk on new world conquest: TBA
