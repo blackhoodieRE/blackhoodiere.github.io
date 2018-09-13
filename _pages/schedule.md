@@ -26,7 +26,7 @@ header:
 |12:10| Arming malware with GANs | [Maria Rigaki](https://twitter.com/mrigaki) |
 |12:30| ------------------------------  Lunch
 |13:30| Beating a heavily obfuscated app | [Laura Tich & Evelyn Kilel](https://twitter.com/shehacks_ke) |
-|14:15| TBA | TBA |
+|14:15| "May I see your credentials, please?" | [Dana Baril](https://twitter.com/dana_baril) |
 |15:00| JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript | Aurore Fass |
 |15:25| TBA | TBA |
 |15:45| ------------------------------  Break
