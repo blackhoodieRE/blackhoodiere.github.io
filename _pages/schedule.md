@@ -39,9 +39,9 @@ header:
 
 | Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
 | :--- | :--- | :--- | :--- |
-|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | TBA |
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | Cryptography for non-cryptographers by Marion Videau |
 |13:00|   | LUNCH |   |
-|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | TBA |
+|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | Cryptography for non-cryptographers by Marion Videau |
 
 ###### Opening lightning talk on on-my-way-to-rock-as-hell: Enter The Matrix (Ransomware) by Luca Nagy
 
