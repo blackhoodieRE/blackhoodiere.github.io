@@ -17,7 +17,7 @@ header:
 | Time | Talk | Presenter |
 | :--- | :--- | :--- |
 |09:00| Arrival & Welcome | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
-|09:15| TBA | TBA |
+|09:15| Bushwhacking your way around a bootloader | [.bx](https://twitter.com/bxsays) |
 |10:00| TBA | TBA |
 |10:25| Malware dissection 101 : TinyNuke | [Nha-Khanh Nguyen](https://twitter.com/N1aKan) |
 |10:45| ------------------------------  Break
