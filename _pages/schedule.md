@@ -18,7 +18,7 @@ header:
 | :--- | :--- | :--- |
 |09:00| Arrival & Welcome | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
 |09:15| Bushwhacking your way around a bootloader | [.bx](https://twitter.com/bxsays) |
-|10:00| TBA | TBA |
+|10:00| Down the Drain: A look into Pinball's Embedded systems | Anna Neal |
 |10:25| Malware dissection 101 : TinyNuke | [Nha-Khanh Nguyen](https://twitter.com/N1aKan) |
 |10:45| ------------------------------  Break
 |11:00| Linux servers under siege: a real case forensic analysis of a cryptocurrency miner attack | [Veronica Valeros](https://twitter.com/verovaleros) |
@@ -54,4 +54,4 @@ header:
 |13:00|   | LUNCH |   |
 |14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Writing ARM Shellcode by [Azeria](https://twitter.com/Fox0x01) | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
 
-###### Opening lightning talk on new world conquest: TBA
+###### Opening lightning talk on new world conquest: Fun With C++ by [Carly](https://twitter.com/_5chn31d3r_)
