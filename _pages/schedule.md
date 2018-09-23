@@ -50,8 +50,8 @@ header:
 
 | Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
 | :--- | :--- | :--- | :--- |
-|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | TBA | Introduction to Return Oriented Programming by [chiliz](https://twitter.com/chiliz16) |
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Writing ARM Shellcode by [Azeria](https://twitter.com/Fox0x01) | Introduction to Return Oriented Programming by [chiliz](https://twitter.com/chiliz16) |
 |13:00|   | LUNCH |   |
-|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | TBA | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
+|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Writing ARM Shellcode by [Azeria](https://twitter.com/Fox0x01) | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
 
 ###### Opening lightning talk on new world conquest: TBA
