@@ -51,3 +51,6 @@ build-iPhoneSimulator/
 
 # html generated files
 _site/
+
+# local node modules
+node_modules/
