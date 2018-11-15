@@ -10,6 +10,8 @@ header:
 
 **#BlackHoodie18 -4th Edition**
 
+If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).   
+
 **Friday, November 16th, 2018**
 
 ##### Location: Welcome Party!
@@ -61,6 +63,3 @@ header:
 |15:45| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
 |17:30|   |   |   |
 |18:30|   | #BlackHoodie18 after hacking  |   |
-
-
-#### If you want to check our booklet, click [here](https://latexonline.cc/pending?git=https%3A%2F%2Fgithub.com%2FblackhoodieRE%2Fblackhoodie_booklet&target=booklet_2018.tex&command=xelatex&trackId=1534706493534) .
