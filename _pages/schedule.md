@@ -25,15 +25,14 @@ header:
 |11:45| Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root | anais |
 |12:10| Arming malware with GANs | [Maria Rigaki](https://twitter.com/mrigaki) |
 |12:30| ------------------------------  Lunch
-|13:30| Beating a heavily obfuscated app | [Laura Tich & Evelyn Kilel](https://twitter.com/shehacks_ke) |
-|14:15| "May I see your credentials, please?" | [Dana Baril](https://twitter.com/dana_baril) |
-|15:00| JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript | Aurore Fass |
-|15:25| Enter The Matrix (Ransomware) | Luca Nagy |
-|15:35| Fun With C++ | [Carly](https://twitter.com/_5chn31d3r_) |
-|15:45| ------------------------------  Break
-|16:00| Linux Security APIs and the Chromium Sandbox | [Patricia Aas](https://twitter.com/pati_gallardo) |
-|16:45| Hidden in plain sight | [Essy](https://twitter.com/casheeew) |
-|17:30| Kick-off | [Mari0n](https://twitter.com/pinkflawd) |
+|14:00| "May I see your credentials, please?" | [Dana Baril](https://twitter.com/dana_baril) |
+|14:45| JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript | Aurore Fass |
+|15:10| Enter The Matrix (Ransomware) | Luca Nagy |
+|15:20| Fun With C++ | [Carly](https://twitter.com/_5chn31d3r_) |
+|15:30| ------------------------------  Break
+|15:45| Linux Security APIs and the Chromium Sandbox | [Patricia Aas](https://twitter.com/pati_gallardo) |
+|16:30| Hidden in plain sight | [Essy](https://twitter.com/casheeew) |
+|17:15| Kick-off | [Mari0n](https://twitter.com/pinkflawd) |
 
 **Saturday November 17th, 2018 from 9:00am**
 
