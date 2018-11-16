@@ -20,7 +20,7 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 | :--- | :--- | :--- |
 |09:00| Arrival & Welcome | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
 |09:15| [Bushwhacking your way around a bootloader](./abstracts#bushwhacking-your-way-around-a-bootloader) | [.bx](https://twitter.com/bxsays) |
-|10:00| [Down the Drain: A look into Pinball's Embedded systems](./abstracts#ddown-the-drain-a-look-into-pinballs-embedded-systems) | Anna Neal |
+|10:00| [Down the Drain: A look into Pinball's Embedded systems](./abstracts#ddown-the-drain-a-look-into-pinballs-embedded-systems) | [Anna Neal](https://twitter.com/_brawd) |
 |10:25| [Malware dissection 101 : TinyNuke](./abstracts#malware-dissection-101--tinynuke) | [Nha-Khanh Nguyen](https://twitter.com/N1aKan) |
 |10:45| ------------------------------  Break
 |11:00| [Linux servers under siege: a real case forensic analysis of a cryptocurrency miner attack](./abstracts#linux-servers-under-siege-a-real-case-forensic-analysis-of-a-cryptocurrency-miner-attack) | [Veronica Valeros](https://twitter.com/verovaleros) |
@@ -28,8 +28,8 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 |12:10| [Arming malware with GANs](./abstracts#arming-malware-with-gans) | [Maria Rigaki](https://twitter.com/mrigaki) |
 |12:30| ------------------------------  Lunch
 |14:00| ["May I see your credentials, please?"](./abstracts#may-i-see-your-credentials-please) | [Dana Baril](https://twitter.com/dana_baril) |
-|14:45| [JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript](./abstracts#jast-fully-syntactic-detection-of-malicious-obfuscated-javascript) | Aurore Fass |
-|15:10| [Enter The Matrix (Ransomware)](./abstracts#enter-the-matrix-ransomware) | Luca Nagy |
+|14:45| [JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript](./abstracts#jast-fully-syntactic-detection-of-malicious-obfuscated-javascript) | [Aurore Fass](https://twitter.com/AuroreFass) |
+|15:10| [Enter The Matrix (Ransomware)](./abstracts#enter-the-matrix-ransomware) | [Luca Nagy](https://twitter.com/luca_nagy_) |
 |15:20| [Fun With C++](./abstracts#fun-with-c) | [Carly](https://twitter.com/_5chn31d3r_) |
 |15:30| ------------------------------  Break
 |15:45| [Linux Security APIs and the Chromium Sandbox](./abstracts#linux-security-apis-and-the-chromium-sandbox) | [Patricia Aas](https://twitter.com/pati_gallardo) |

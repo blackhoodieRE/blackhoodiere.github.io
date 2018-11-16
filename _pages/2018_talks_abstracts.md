@@ -50,11 +50,13 @@ In this talk, we present JaSt, a low-overhead solution that combines the extract
 
 # Enter The Matrix (Ransomware)
 
+<a href="../assets/archive/Matrix_Ransomware_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 The Matrix ransomware family introduced some new techniques for obfuscating internal structures and embedded data. In this presentation, I'll walk attendees though my investigation of the Matrix ransomware family and a reverse engineering of its main components.
 
 # Fun With C++
 
-C++ has a lot of features. Sometimes what you think you are doing and what is actually happening are two different things. We are going to look at some C++ anti-patterns and how you can abuse them.\\
+C++ has a lot of features. Sometimes what you think you are doing and what is actually happening are two different things. We are going to look at some C++ anti-patterns and how you can abuse them.
 
 # Linux Security APIs and the Chromium Sandbox
 
