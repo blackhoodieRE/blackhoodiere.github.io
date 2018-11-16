@@ -31,7 +31,7 @@ Blackhoodie is a free, women only reverse engineering workshop.
 
 ## Prerequisites
 
-* Being female
+* Identifying [partially or wholy] as female
 * Computer science background in a sense you understand programming logic, how a processor works and how an operating system works
 * A Notebook capable of running at least one virtual machine
 * A virtual machine, preferred WinXP 32-bit
