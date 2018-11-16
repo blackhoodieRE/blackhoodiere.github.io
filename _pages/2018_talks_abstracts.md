@@ -35,6 +35,8 @@ Rooting detection mechanisms implemented by Android applications can be a pitfal
 
 # Arming malware with GANs
 
+<a href="../assets/archive/Arming_Malware_with_GANs_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 This talk is about an application of Generative Adversarial Networks (GANs) in network security. More specifically, it is about our experiments in using GANs to modify malware C&C traffic so that it mimics normal network traffic in order for the malware to remain undetected while at the same time it continues to be effective.
 
 # "May I see your credentials, please?"
@@ -55,6 +57,8 @@ The Matrix ransomware family introduced some new techniques for obfuscating inte
 C++ has a lot of features. Sometimes what you think you are doing and what is actually happening are two different things. We are going to look at some C++ anti-patterns and how you can abuse them.\\
 
 # Linux Security APIs and the Chromium Sandbox
+
+<a href="../assets/archive/Chromium_Sandbox_on_Linux_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 The Linux Security and Isolation APIs have become the basis of some of the most useful features server-side, providing the isolation required for efficient containers. However, these APIs also form the basis of the Chromium Sandbox on Linux, and we will study them in that context in this talk.
 
