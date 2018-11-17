@@ -46,6 +46,8 @@ In this talk, we explain how to detect credential theft out of the Windows Crede
 
 # JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript
 
+<a href="../assets/archive/JaSt_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 In this talk, we present JaSt, a low-overhead solution that combines the extraction of features from the abstract syntax tree with a random forest classifier to detect malicious JavaScript instances. Even though the analysis is entirely static, it yields a high detection accuracy of almost 99.5\% and has a low false-negative rate of 0.54%.
 
 # Enter The Matrix (Ransomware)
