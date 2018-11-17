@@ -16,6 +16,8 @@ Even when you have access to some binary's source code, it can still be challeng
 
 # Down the Drain: A look into Pinball's Embedded systems
 
+<a href="../assets/archive/Down_the_Drain_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 I've been digging to into the pinball update file for fun. I had to create a little python tool to unpack the file. Then used strings to find out about the processor type and OS and find the files that were most interesting. I'm now learning radare2 to try and reverse through the binary a bit. This is not a finished project and I don't know where it will lead me but thought I should stick out my neck and try something scary.
 
 # Malware dissection 101 : TinyNuke
