@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Registration"
-    url: /registration/
+  - title: "Challenge"
+    url: /challenge/
   - title: "Schedule"
     url: /schedule/
   - title: "Archive"
