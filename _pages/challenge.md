@@ -12,6 +12,8 @@ We have a challenge! And you can win some swag:
 - ... for the first one to solve it
 - ... for the best write-up of the solution
 
+![swag2018](../assets/images/swag_2018.jpg)
+
 Download the challenge:
 - [https://tiny.cc/bh18-chall](https://tiny.cc/bh18-chall)
 - password is `R0ck1ng4sh3!!`
