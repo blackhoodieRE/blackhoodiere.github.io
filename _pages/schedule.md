@@ -40,13 +40,13 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 
 | Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
 | :--- | :--- | :--- | :--- |
-|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | Cryptography for non-cryptographers by [Marion Videau](cry_cry_pto) |
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | Cryptography for non-cryptographers by [Marion Videau](https://twitter.com/cry_cry_pto) |
 |10:45|   | Break |   |
-|11:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | Cryptography for non-cryptographers by [Marion Videau](cry_cry_pto) |
+|11:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | A Beginner's Guide to Android Malware Analysis by [Kristina Balaam](https://twitter.com/chmodxx_) | Cryptography for non-cryptographers by [Marion Videau](https://twitter.com/cry_cry_pto) |
 |13:00|   | LUNCH |   |
-|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | Cryptography for non-cryptographers by [Marion Videau](cry_cry_pto) |
+|14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | Cryptography for non-cryptographers by [Marion Videau](https://twitter.com/cry_cry_pto) |
 |15:30|   | Break |   |
-|15:45| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | Cryptography for non-cryptographers by [Marion Videau](cry_cry_pto) |
+|15:45| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | Capture The Flag: An Introduction To Binary Exploitation by [Katharina Männle](https://twitter.com/mnnle) | Cryptography for non-cryptographers by [Marion Videau](https://twitter.com/cry_cry_pto) |
 |17:30|   |   |   |
 |19:00|   | #Blackhoodie18 Dinner |   |
 
