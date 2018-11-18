@@ -29,6 +29,8 @@ This banking trojan called TinyNuke or NukeBot targets American and French bank 
 
 # Linux servers under siege: a real case forensic analysis of a cryptocurrency miner attack
 
+<a href="../assets/archive/Linux_Servers_Under_Siege_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 Everything started with an email alert to a network administrator hinting that something was not right in one of the organization's Linux servers. What followed is two months of digital forensic analysis where we followed the trail of breadcrumbs left behind by the attackers, only to find that what we found was just the last of a series of attacks that have started almost a year before.
 
 # Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root
