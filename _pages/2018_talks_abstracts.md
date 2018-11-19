@@ -35,6 +35,8 @@ Everything started with an email alert to a network administrator hinting that s
 
 # Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root
 
+<a href="../assets/archive/emuroot_blcakhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 Rooting detection mechanisms implemented by Android applications can be a pitfall for reverse-engineers who want to study these applications. This presentation aims at sharing an interesting way based on Google Play emulator debugging to get a rooted shell not trivially detectable by the applications allowing to go further in reverse-engineering (RE).
 
 # Arming malware with GANs
