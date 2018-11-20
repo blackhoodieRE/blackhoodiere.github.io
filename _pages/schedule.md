@@ -18,7 +18,7 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 
 | Time | Talk | Presenter |
 | :--- | :--- | :--- |
-|09:00| Arrival & Welcome | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
+|09:00| [Arrival & Welcome](https://tiny.cc/bh18-slides) | [Blackhoodie Team](https://twitter.com/blackhoodie_re) |
 |09:15| [Bushwhacking your way around a bootloader](./abstracts#bushwhacking-your-way-around-a-bootloader) | [.bx](https://twitter.com/bxsays) |
 |10:00| [Down the Drain: A look into Pinball's Embedded systems](./abstracts#down-the-drain-a-look-into-pinballs-embedded-systems) | [Anna Neal](https://twitter.com/_brawd) |
 |10:25| [Malware dissection 101 : TinyNuke](./abstracts#malware-dissection-101--tinynuke) | [Nha-Khanh Nguyen](https://twitter.com/N1aKan) |
