@@ -10,6 +10,8 @@ header:
 
 # Bushwhacking your way around a bootloader
 
+<a href="../assets/archive/bx_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 This talk will cover the methods and tools I developed to "reverse engineer" the open source Das U-Boot bootloader, and how they can be applied more generally to as a dynamic analysis technique to correlate interesting events with control flow and ultimately a location in the binary/source code.
 
 Even when you have access to some binary's source code, it can still be challenging to understand said software. In this talk, I will discuss the techniques and I tools I developed in order to understand and navigate the pile of code that is the open-source Das U-Boot bootloader. The tools I developed do not rely on proprietary software and instead make use of free and powerful debugging tools such as Capstone, Unicorn, and the GDB Python plugin API. My approach strives to highlight the temporal and mechanical connections that exist between higher-level behaviors and regions of the code base/binary by instrumenting, tracing, and analyzing all memory writes with respect to the software's current execution path. This technique allows us to develop and test our understanding of the relationships between code and objects (data structures and/or regions of memory). I will demonstrate how these tools and techniques can be used in practice by discussing how they were used to identify and distinguish between different phases of U-Boot execution (including distinct phases of initialization and relocation). This talk aims to be both accessible to software folk who merely want to learn more about bootloaders as well as interesting to those with bootloader and/or reverse-engineering experience.
@@ -73,6 +75,8 @@ C++ has a lot of features. Sometimes what you think you are doing and what is ac
 The Linux Security and Isolation APIs have become the basis of some of the most useful features server-side, providing the isolation required for efficient containers. However, these APIs also form the basis of the Chromium Sandbox on Linux, and we will study them in that context in this talk.
 
 # Hidden in plain sight
+
+<a href="../assets/archive/hidden_in_plain_sight_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 This talk will take a look at some living-off-the-land techniques and fileless persistence methods in Windows. Tools that are already installed on a system provide a good opportunity to hide in plain sight and Windows gives us various options to 'legitimately' play around.
 The overall goal is to point to interesting fields worth taking a closer look at later on.
