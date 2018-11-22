@@ -54,9 +54,9 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 
 | Time | welcome party! | new world conquest | on-my-way-to-rock-as-hell |
 | :--- | :--- | :--- | :--- |
-|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | [Introduction to Return Oriented Programming](https://drive.google.com/open?id=1qNTnnEp79iCJFVFV1eXqvWXshEx2OwoP) by [chiliz](https://twitter.com/chiliz16) [ROP cheatsheet](https://drive.google.com/open?id=1ay7p4qB0IlftmjeQqe7X5h4rkWKVuhjt)|
+|09:30| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | [Introduction to Return Oriented Programming](https://github.com/chiliz16/ROP-Workshop) by [chiliz](https://twitter.com/chiliz16) |
 |10:45|   | Break |   |
-|11:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | [Introduction to Return Oriented Programming](https://drive.google.com/open?id=1qNTnnEp79iCJFVFV1eXqvWXshEx2OwoP) by [chiliz](https://twitter.com/chiliz16) [ROP cheatsheet](https://drive.google.com/open?id=1ay7p4qB0IlftmjeQqe7X5h4rkWKVuhjt)|
+|11:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | [Introduction to Return Oriented Programming](https://github.com/chiliz16/ROP-Workshop) by [chiliz](https://twitter.com/chiliz16) |
 |13:00|   | LUNCH |   |
 |14:00| Introduction to Windows Malware RE by [Mari0n](https://twitter.com/pinkflawd) | ARM Exploitation 101 by [Azeria](https://twitter.com/Fox0x01) | Introduction to Windows Kernel: let's keylog all the things by [Gwaby](https://twitter.com/pwissenlit) |
 |15:30|   | Break |   |
