@@ -3,7 +3,7 @@ layout: single
 title: Talk's abstracts
 excerpt: "Abstracts for Blackhoodie 2018"
 modified: 2018-11-15T00:44:38.564948-04:00
-permalink: /schedule/abstracts
+permalink: /archive/bh2018/abstracts
 header:
     image: /assets/images/banner_1.png
 ---

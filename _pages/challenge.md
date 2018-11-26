@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Challenge
-excerpt: "Layout for Blackhoodie"
+excerpt: "Challenge for Blackhoodie18"
 modified: 2018-09-16T00:44:38.564948-04:00
 permalink: /challenge/
 header:
@@ -21,5 +21,3 @@ Download the challenge:
 Send the flag before *sunday midday* to: `barbie@blackhoodie.re` when you are done!
 
 Congratz and thanks to our previous challenge winner [N1akan](https://twitter.com/N1aKan) for making the challenge this year!
-
-
