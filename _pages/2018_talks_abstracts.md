@@ -10,7 +10,7 @@ header:
 
 # Bushwhacking your way around a bootloader
 
-<a href="../assets/archive/bx_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/bx_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 This talk will cover the methods and tools I developed to "reverse engineer" the open source Das U-Boot bootloader, and how they can be applied more generally to as a dynamic analysis technique to correlate interesting events with control flow and ultimately a location in the binary/source code.
 
@@ -18,7 +18,7 @@ Even when you have access to some binary's source code, it can still be challeng
 
 # Down the Drain: A look into Pinball's Embedded systems
 
-<a href="../assets/archive/Down_the_Drain_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/Down_the_Drain_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 I've been digging to into the pinball update file for fun. I had to create a little python tool to unpack the file. Then used strings to find out about the processor type and OS and find the files that were most interesting. I'm now learning radare2 to try and reverse through the binary a bit. This is not a finished project and I don't know where it will lead me but thought I should stick out my neck and try something scary.
 
@@ -31,19 +31,19 @@ This banking trojan called TinyNuke or NukeBot targets American and French bank 
 
 # Linux servers under siege: a real case forensic analysis of a cryptocurrency miner attack
 
-<a href="../assets/archive/Linux_Servers_Under_Siege_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/Linux_Servers_Under_Siege_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 Everything started with an email alert to a network administrator hinting that something was not right in one of the organization's Linux servers. What followed is two months of digital forensic analysis where we followed the trail of breadcrumbs left behind by the attackers, only to find that what we found was just the last of a series of attacks that have started almost a year before.
 
 # Android_Emuroot: Abusing Google Play emulator debugging to RE non-cooperative apps as root
 
-<a href="../assets/archive/emuroot_blcakhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/emuroot_blcakhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 Rooting detection mechanisms implemented by Android applications can be a pitfall for reverse-engineers who want to study these applications. This presentation aims at sharing an interesting way based on Google Play emulator debugging to get a rooted shell not trivially detectable by the applications allowing to go further in reverse-engineering (RE).
 
 # Arming malware with GANs
 
-<a href="../assets/archive/Arming_Malware_with_GANs_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/Arming_Malware_with_GANs_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 This talk is about an application of Generative Adversarial Networks (GANs) in network security. More specifically, it is about our experiments in using GANs to modify malware C&C traffic so that it mimics normal network traffic in order for the malware to remain undetected while at the same time it continues to be effective.
 
@@ -54,13 +54,13 @@ In this talk, we explain how to detect credential theft out of the Windows Crede
 
 # JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript
 
-<a href="../assets/archive/JaSt_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/JaSt_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 In this talk, we present JaSt, a low-overhead solution that combines the extraction of features from the abstract syntax tree with a random forest classifier to detect malicious JavaScript instances. Even though the analysis is entirely static, it yields a high detection accuracy of almost 99.5\% and has a low false-negative rate of 0.54%.
 
 # Enter The Matrix (Ransomware)
 
-<a href="../assets/archive/Matrix_Ransomware_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/Matrix_Ransomware_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 The Matrix ransomware family introduced some new techniques for obfuscating internal structures and embedded data. In this presentation, I'll walk attendees though my investigation of the Matrix ransomware family and a reverse engineering of its main components.
 
@@ -70,13 +70,13 @@ C++ has a lot of features. Sometimes what you think you are doing and what is ac
 
 # Linux Security APIs and the Chromium Sandbox
 
-<a href="../assets/archive/Chromium_Sandbox_on_Linux_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/Chromium_Sandbox_on_Linux_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 The Linux Security and Isolation APIs have become the basis of some of the most useful features server-side, providing the isolation required for efficient containers. However, these APIs also form the basis of the Chromium Sandbox on Linux, and we will study them in that context in this talk.
 
 # Hidden in plain sight
 
-<a href="../assets/archive/hidden_in_plain_sight_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+<a href="../../assets/archive/hidden_in_plain_sight_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
 
 This talk will take a look at some living-off-the-land techniques and fileless persistence methods in Windows. Tools that are already installed on a system provide a good opportunity to hide in plain sight and Windows gives us various options to 'legitimately' play around.
 The overall goal is to point to interesting fields worth taking a closer look at later on.
