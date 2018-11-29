@@ -3,7 +3,7 @@ layout: single
 title: "Solving the Blackhoodie18 Challenge"
 exerpt: "defusing a binary bomb for fun and learning!"
 tags: [reverse engineering, security, malware, BlackHoodie]
-date: 2018-11-29 10:00:00 -0700
+date: 2018-11-28 10:00:00 -0700
 ---
 
 ## defusing a binary bomb for fun and learning!
@@ -218,7 +218,7 @@ The bomb has been defused ! :)
 
 which means we have defused the bomb and found the flag!
 
-
+- [Camilla Montonen](https://twitter.com/spimescape)
 
 ----
 
