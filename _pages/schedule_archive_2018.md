@@ -69,3 +69,4 @@ If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 
 | [Challenge Page](./challenge) |
 | [BlackHoodie Bootcamp #4 Wrap Up - Berlin 2018](https://www.stratosphereips.org/blog/2018/11/19/blackhoodie-bootcamp-4-wrap-up-berlin-2018) |
+| [Blackhoodie18 Challenge Write-up](../../blackhoodie18-challenge-writeup)
