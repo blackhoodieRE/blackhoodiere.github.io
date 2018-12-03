@@ -24,6 +24,8 @@ I've been digging to into the pinball update file for fun. I had to create a lit
 
 # Malware dissection 101 : TinyNuke
 
+<a href="../../assets/archive/TinyNuke_Analysis_blackhoodie.pdf"><i class="fa fa-file"></i> slides</a>
+
 What is a banking trojan ? How does it work ? Let's dissect a TinyNuke sample to find it out.
 
 Last year, a massive malware campaign have been spotted targeting French and American banks.
