@@ -21,15 +21,15 @@ The bootcamp will take place in San Francisco downtown, on April 25<sup>th</sup>
 
 **Who:** Women 
 
-**Prerequisites Track 1: **Experience in C/C++ development, notebook capable of hosting/running a VM 
+**Prerequisites Track 1: ** Experience in C/C++ development, notebook capable of hosting/running a VM 
 
 **Prerequisites Track 2:** notebook capable of hosting/running a VM
 
 **Registration:** Use our [form](https://docs.google.com/forms/d/e/1FAIpQLSeoO5VMpXuS6kjIdCrtuFgVuFHdGXU6vKKnd9vT-v1bv8ON3g/viewform?usp=sf_link) :) Registration closes April 5th
 
-We will run 2 sessions in parallel, sporting 1 class per day. Track 1 focuses on C/C++ software security and x86 reverse engineering of Windows malware. Track 2 focuses on web application security and ARM reverse engineering.
+We will run 2 sessions in parallel, sporting 1 class per day. Track 1 focuses on C/C++ software security and x86 reverse engineering of Windows malware. Track 2 focuses on web application security and ARM reverse engineering.  
 
-
+---
 ## **Track 1:**
 
 **Day 1:** Bug Hunting for Developers
@@ -58,9 +58,9 @@ Topic: Workshop on application security, where attendees will learn to break web
 
 Teacher: [Maddie Stone](https://twitter.com/maddiestone), world's favorite firmware reverse engineer, 
 
-Topic: This workshop will teach attendees how to go about reverse engineering Android applications. 
+Topic: This workshop will teach attendees how to go about reverse engineering Android applications.  
 
- 
+---
 
 Registration for BlackHoodie Bay Area 2019 will work on a first come first serve basis, through a [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeoO5VMpXuS6kjIdCrtuFgVuFHdGXU6vKKnd9vT-v1bv8ON3g/viewform?usp=sf_link). You will be able to register until April 5th. Space is limited and folks signing up for track 1, please check the prerequisites for the track 1 classes. 
 
