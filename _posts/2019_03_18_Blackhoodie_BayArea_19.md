@@ -77,6 +77,3 @@ The number of female engineers working on complex low level security topics is c
 BlackHoodie is a series of free, women only hacker bootcamps, which started in 2015, and since 2018 started going global. BlackHoodie Bay Area is organized in cooperation with Google, and in 2018 was the first BlackHoodie event to be held within the United States. More information on the idea of BlackHoodie and upcoming other events can be found at [www.blackhoodie.re](https://www.blackhoodie.re/).
 
  
-
-
-<!-- Docs to Markdown version 1.0β16 -->
