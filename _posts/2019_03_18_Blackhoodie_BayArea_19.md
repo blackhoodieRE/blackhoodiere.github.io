@@ -13,19 +13,19 @@ The bootcamp will take place in San Francisco downtown, on April 25<sup>th</sup>
 
 **TL;DR facts:**
 
-**What:** Classes on code security, application security, x86, and ARM and Android native reverse engineering 
+--What:-- Classes on code security, application security, x86, and ARM and Android native reverse engineering 
 
-**When:** April 25<sup>th</sup> & 26<sup>th</sup>, 2019; 10am - 5pm; 25th 3-5pm networking event  
+--When:-- April 25<sup>th</sup> & 26<sup>th</sup>, 2019; 10am - 5pm; 25th 3-5pm networking event  
 
-**Where:** Google campus, 345 Spear St, San Francisco, CA, 94105, 7th floor
+--Where:-- Google campus, 345 Spear St, San Francisco, CA, 94105, 7th floor
 
-**Who:** Women 
+--Who:-- Women 
 
-**Prerequisites Track 1: ** Experience in C/C++ development, notebook capable of hosting/running a VM 
+--Prerequisites Track 1:-- Experience in C/C++ development, notebook capable of hosting/running a VM 
 
-**Prerequisites Track 2:** notebook capable of hosting/running a VM
+--Prerequisites Track 2:-- notebook capable of hosting/running a VM
 
-**Registration:** Use our [form](https://docs.google.com/forms/d/e/1FAIpQLSeoO5VMpXuS6kjIdCrtuFgVuFHdGXU6vKKnd9vT-v1bv8ON3g/viewform?usp=sf_link) :) Registration closes April 5th
+--Registration:-- Use our [form](https://docs.google.com/forms/d/e/1FAIpQLSeoO5VMpXuS6kjIdCrtuFgVuFHdGXU6vKKnd9vT-v1bv8ON3g/viewform?usp=sf_link) :) Registration closes April 5th
 
 We will run 2 sessions in parallel, sporting 1 class per day. Track 1 focuses on C/C++ software security and x86 reverse engineering of Windows malware. Track 2 focuses on web application security and ARM reverse engineering.  
 
