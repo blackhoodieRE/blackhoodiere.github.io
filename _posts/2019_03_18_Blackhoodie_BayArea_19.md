@@ -46,7 +46,7 @@ Teacher: [Bhavna Soman](https://twitter.com/bsoman3), Security Researcher at Mic
 
 Topic: Students will go over the basics of x86 and IDAPro, and use that to analyze real world malware samples (VM set up instructions will be provided beforehand). They will learn common techniques that malware authors use to evade detection and analysis. Finally, they'll be provided with challenge binaries to test their new RE skillz.
 
-**Track 2:**
+## **Track 2:**
 
 **Day 1:** A hands-on introduction to Web Application Security 
 
@@ -68,11 +68,11 @@ You can only sign up for a track, not for a particular class (keeps our attendee
 
 Finally, please note that we cannot cover travel or housing for attendees. We'll be able to provide one or another snack though. More details will be communicated prior to the event.
 
-**Why women only?**
+## **Why women only?**
 
 The number of female engineers working on complex low level security topics is crushingly low. My past teaching experience shows me, that is not due to lack of interest in challenges, but has to do with aspiring hackerettes sporting impressive anxieties. And I get it, modern day computer security is an intimidating field, and the fact that this field's engineers are usually all male, fancy death metal fashion and are offensive by definition, doesn't help. But, among us, one doesn't need to be male and death metal to be successful there. The BlackHoodie workshops aim to make complex subjects more tangible and less intimidating for women, in order to get motivated hackerettes started on their security careers. It is not about building walls around a minority, but about creating space, where participants can build confidence, foster shared interests, build connections, and in the end contribute themselves as part of a happier community. It keeps fascinating me how many former BlackHoodies keep sticking around, and do impressive work in several different areas of security.
 
-**What is BlackHoodie?**
+## **What is BlackHoodie?**
 
 BlackHoodie is a series of free, women only hacker bootcamps, which started in 2015, and since 2018 started going global. BlackHoodie Bay Area is organized in cooperation with Google, and in 2018 was the first BlackHoodie event to be held within the United States. More information on the idea of BlackHoodie and upcoming other events can be found at [www.blackhoodie.re](https://www.blackhoodie.re/).
 
