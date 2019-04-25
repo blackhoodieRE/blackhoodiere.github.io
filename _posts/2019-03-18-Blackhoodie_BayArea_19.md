@@ -15,7 +15,7 @@ The bootcamp will take place in San Francisco downtown, on April 25<sup>th</sup>
 
 __What:__ Classes on code security, application security, x86, and ARM and Android native reverse engineering 
 
-__When:__ April 25<sup>th</sup> & 26<sup>th</sup>, 2019; 10am - 5pm; 25th 3-5pm networking event  
+__When:__ April 25<sup>th</sup> & 26<sup>th</sup>, 2019; 8.30am - 5pm; 25th 3-5pm networking event  
 
 __Where:__ Google campus, 345 Spear St, San Francisco, CA, 94105, 7th floor
 
