@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Challenge"
     url: /challenge/
-  - title: "Schedule"
-    url: /schedule/
   - title: "Archive"
     url: /archive/
+  - title: "Calendar"
+    url: /calendar/
