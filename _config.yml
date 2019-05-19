@@ -132,7 +132,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-twitter-plugin
   - jemoji
 
 # mimic GitHub Pages with --safe
