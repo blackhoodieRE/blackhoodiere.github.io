@@ -1,6 +1,6 @@
 ---
 layout: single
-title: " BlackHoodie comes back to San Francisco!"
+title: "BlackHoodie comes back to San Francisco!"
 exerpt: "RE bootcamp for women at Google campus in SF downtown"
 tags: [workshop, conferences, BlackHoodie]
 date: 2019-03-18 00:00:00 -0500
