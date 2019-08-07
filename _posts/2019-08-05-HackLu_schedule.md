@@ -94,11 +94,10 @@ The number of female engineers working on complex low level security topics is c
 | 09:30 | Introduction to Web Application Penetration Testing          | [Andrea Hauser](https://twitter.com/aha_181)         |
 | 10:30 | Pentesting Mobile Apps with Frida                            | [Laura Garcia](https://www.linkedin.com/in/laura-garcia-cybersec) & [Marta Barrio](https://www.linkedin.com/in/martabarriomarcos) |
 | 11:30 | Linux Kernel and/or Driver Development 101                   | Anna-Lena                                            |
-| 12:30 | BinCAT: purrfecting binary static analysis                   | Andreia Gaita                                        |
+| 12:30 | BinCAT: purrfecting binary static analysis                   | Sarah Zennou                                        |
 | 13:00 | Lunch                                                        |                                                      |
-| 14:00 | Exploiting bug report systems in the game industry           | Sarah Zennou                                         |
+| 14:00 | Exploiting bug report systems in the game industry           | Andreia Gaita                                      |
 | 15:00 | A QuickLook at macOS cache forensics                         | [Kinga Kieczkowska](https://twitter.com/kieczkowska) |
 | 15:30 | Don’t think outside the box - keep it to yourself (and your VM) | Bell Levin                                           |
 | 16:00 | Losing Face: Hacking Facial Recognition<br />Technology with Makeup and Other Tricks | [Camilla Montonen](https://twitter.com/spimescape)   |
 | 17: 00 | Closing Remarks |  |
-
