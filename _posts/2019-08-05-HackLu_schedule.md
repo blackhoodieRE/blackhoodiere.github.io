@@ -43,7 +43,7 @@ We would like to provide a glimpse to a day in the blue team. In the beginning, 
 
 ### Java Web Application Secure Coding 
 
-Teacher: [Eva Szilagyi](https://twitter.com/EvaSzilagyiSec)
+Teacher: [Eva Szilagyi](https://twitter.com/EvaSzilagyiSec), IT Security Consultant, Alzette Information Security
 
 Topic: Context-dependent output encoding? Prepared statement with bind variables? Disable external entity resolution? Storing passwords in salted hash format? If you are involved in Java development, you should join this workshop and see, why these are important from a security perspective! This workshop is meant for developers and security professionals alike. It is delivered by an information security professional with the purpose of demystifying web application secure coding.
 
