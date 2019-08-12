@@ -90,7 +90,7 @@ The number of female engineers working on complex low level security topics is c
 
 | Time  | Talk                                                         | Presenter                                            |
 | :---: | :----------------------------------------------------------- | :--------------------------------------------------- |
-| 09:00 | TBA                                  | TBA                                         |
+| 09:00 | Welcome :D                        |                                          |
 | 09:30 | Introduction to Web Application Penetration Testing          | [Andrea Hauser](https://twitter.com/aha_181)         |
 | 10:30 | Pentesting Mobile Apps with Frida                            | [Laura Garcia](https://www.linkedin.com/in/laura-garcia-cybersec) & [Marta Barrio](https://www.linkedin.com/in/martabarriomarcos) |
 | 11:30 | Linux Kernel and/or Driver Development 101                   | Anna-Lena                                            |
