@@ -25,7 +25,9 @@ Prerequisites: some web application, coding, and Unix knowledge.
 
 Teacher: [Essy](https://twitter.com/casheeew)
 
-Topic: TBA
+Topic: Congrats, you’ve made it, after some exploit shenanigans you’ve got your first foothold on a Windows client at Kitty Corporation. Now what? Where to go from here? Where am I? Who am I? Who can I (pretend to) be? And what can I do? We’ll explore some tools and techniques that help us try to answer those questions. This is going to be a starter workshop to get a first feeling on how to have fun with (domain joined) Windows systems. We’ll be focusing on the basic concepts of a Windows based infrastructure that you’ll usually find in corporate environments. This will include authentication protocols and weaknesses as well as tools that let’s you have fun in those infrastructures. 
+
+Prerequisites: Ability to run 2 Windows based VMs at the same time (>=8GB RAM, >=60GB free disk space). That’s it, detailed knowledge of Windows is not required to attend the training, we’ll start with the basics and explore this playground together. I’ll provide you with information & scripts how to setup the lab beforehand.
 
 ## **Track 2:**
 
