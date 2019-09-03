@@ -6,7 +6,7 @@ tags: [workshop, conferences, BlackHoodie]
 date: 2019-08-01 00:00:00 -0500
 ---
 
-You already knew we had a master plan to come back to Luxembourg. You asked for it, we heard and we know you are pressing F5 like crazy to check what we have for you this time! So here it is! We are finally publishing the agenda for yet another Blackhoodie event in 2019. 
+You already knew we had a master plan to come back to Luxembourg. You asked for it, we heard and we know you are pressing F5 like crazy to check what we have for you this time! So here it is! We are finally publishing the agenda for yet another Blackhoodie event in 2019.
 
 Hard facts can be found [here](../Blackhoodie_HackLu_19/) and if you want to join us, please register to your favorite track using our [form](https://docs.google.com/forms/d/e/1FAIpQLSeFHlEqBwPj238QXAJ081jyRu6THwr4zlXlRukarRbKLzJn3w/viewform).
 
@@ -17,21 +17,44 @@ Hard facts can be found [here](../Blackhoodie_HackLu_19/) and if you want to joi
 
 Teacher: [Valentine M.](https://twitter.com/vm00z), ethical hacker for application and infrastructure pentesting, KPN - Royal Dutch Telekom
 
-Topic: An advanced introduction to Offensive Security. This includes offensive security principles, some hacking demos, and common techniques on how to break into things. 
+Topic: An advanced introduction to Offensive Security. This includes offensive security principles, some hacking demos, and common techniques on how to break into things.
 
+The workshop will include:
+- Infrastructure and web introduction
+- Web application pwnage
+- OWASP Top 10
+- Offensive Security tooling
+- Vulnerability scanning
+- Kernel exploits
+- Privesc and lateral movement
+- Hands-on sessions
+- Demos and more demos!
+
+Prerequisites:
+- Bring a laptop!
+- A working Kali virtual machine
+https://www.kali.org/downloads/ (Virtual Box will do https://www.virtualbox.org/)
+
+There is some pre-knowledge required: some (web application) coding knowledge and being familiar with Unix terminology and command line usage.
+
+Regarding web applications, which is a strong subject in this workshop, there are multiple web guides to follow. This one is quite alright: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+
+W3Schools also provide multiple tutorials regarding web applications: https://www.w3schools.com/
+
+This is to acquire basic knowledge on web architectures, JavaScript and HTML, and also how to deal with databases (SQL language).
 Prerequisites: some web application, coding, and Unix knowledge.
 
 ### Windows pwning
 
 Teacher: [Essy](https://twitter.com/casheeew)
 
-Topic: Congrats, you’ve made it, after some exploit shenanigans you’ve got your first foothold on a Windows client at Kitty Corporation. Now what? Where to go from here? Where am I? Who am I? Who can I (pretend to) be? And what can I do? We’ll explore some tools and techniques that help us try to answer those questions. This is going to be a starter workshop to get a first feeling on how to have fun with (domain joined) Windows systems. We’ll be focusing on the basic concepts of a Windows based infrastructure that you’ll usually find in corporate environments. This will include authentication protocols and weaknesses as well as tools that let’s you have fun in those infrastructures. 
+Topic: Congrats, you’ve made it, after some exploit shenanigans you’ve got your first foothold on a Windows client at Kitty Corporation. Now what? Where to go from here? Where am I? Who am I? Who can I (pretend to) be? And what can I do? We’ll explore some tools and techniques that help us try to answer those questions. This is going to be a starter workshop to get a first feeling on how to have fun with (domain joined) Windows systems. We’ll be focusing on the basic concepts of a Windows based infrastructure that you’ll usually find in corporate environments. This will include authentication protocols and weaknesses as well as tools that let’s you have fun in those infrastructures.
 
 Prerequisites: Ability to run 2 Windows based VMs at the same time (>=8GB RAM, >=60GB free disk space). That’s it, detailed knowledge of Windows is not required to attend the training, we’ll start with the basics and explore this playground together. I’ll provide you with information & scripts how to setup the lab beforehand.
 
 ## **Track 2:**
 
-### Writing Open-Source Detection for Android Stalkerware 
+### Writing Open-Source Detection for Android Stalkerware
 
 Teacher: [Joanne Kim](https://twitter.com/j0j0beanzzz), Research Engineer, Talos Intellingence, gardener and learner of new and old languages
 
@@ -43,7 +66,7 @@ Teachers: [Dana Baril](https://twitter.com/dana_baril), Security Software Engine
 
 We would like to provide a glimpse to a day in the blue team. In the beginning, we will explain the idea behind EDR in general, and share implementation concepts. In the end of this part you will practice code writing for EDR features. In the second part, we will discuss malware analysis using EDR data and together you will run an exercise of data analysis, hunting malicious activity.
 
-### Java Web Application Secure Coding 
+### Java Web Application Secure Coding
 
 Teacher: [Eva Szilagyi](https://twitter.com/EvaSzilagyiSec), IT Security Consultant, Alzette Information Security
 
@@ -72,7 +95,7 @@ Prerequisites: a basic knowledge of x86 assembly, things like ABI, calling conve
 
 ---
 
-Please notice that the registration will be worked on FIFO basis and the space is limited. Be sure you check the prerequisites for the workshops before signing in, as you can only sign for a track and not for a single class. 
+Please notice that the registration will be worked on FIFO basis and the space is limited. Be sure you check the prerequisites for the workshops before signing in, as you can only sign for a track and not for a single class.
 
 The conference day will be on Monday and the schedule for it can also be found if you just scroll down for some seconds :)
 
