@@ -248,6 +248,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
+  listen
 
 BUNDLED WITH
    1.15.4
