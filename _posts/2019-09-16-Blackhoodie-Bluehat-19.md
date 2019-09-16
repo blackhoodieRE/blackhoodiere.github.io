@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "BlackHoodie is Back at Bluehat Seattle!"
+title: "BlackHoodie is Back at BlueHat Seattle!"
 exerpt: "Reverse Engineering Workshop for women"
-tags: [workshop, BlackHoodie, spinoff, Bluehat, Seattle]
+tags: [workshop, BlackHoodie, spinoff, BlueHat, Seattle]
 date: 2019-09-16 10:00:00 -0700
 ---
 
-We're partnering with Bluehat Seattle again this year!! Get set for the second BlackHoodie event in the USA for 2019! Just like other BlackHoodie events, this will be free, it will be women only, and it will be crazy challenging. 
+We're partnering with BlueHat Seattle again this year!! Get set for the second BlackHoodie event in the USA for 2019! Just like other BlackHoodie events, this will be free, it will be women only, and it will be crazy challenging. 
 
 ### Deets:
 Date: October 22nd-23rd, 2019   
@@ -87,7 +87,7 @@ This course is intended to be at an intermediate level. While proficiency is not
 - Able to use VMware to access the hands-on labs
 
 
-**Blackhoodie @ Bluehat 2019 Registration link**: [Link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2Oxl-hXjyFAmcwn3HeHLlRUQVhYWVROR1IxMkVSMVk0RllNVUhTTVpCUi4u)
+**Blackhoodie @ BlueHat 2019 Registration link**: [Link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2Oxl-hXjyFAmcwn3HeHLlRUQVhYWVROR1IxMkVSMVk0RllNVUhTTVpCUi4u)
 
 **Registration timeline**: Registration will open 16th September 2019 at 2.00 PM and will remain open till slots are available. Seats will be allotted on a first come first served basis.  
   
