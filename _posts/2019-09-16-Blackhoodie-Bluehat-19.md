@@ -16,7 +16,7 @@ Who: Women
 
 This event will have five tracks.   
 
-### Track 1: Intro to malware RE 
+### Track 1: Intro to Reverse Engineering Malware 
 
 *Dates*: 22-23 Oct 2019
 
