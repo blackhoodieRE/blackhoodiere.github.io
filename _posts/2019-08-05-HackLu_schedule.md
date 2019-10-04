@@ -52,13 +52,23 @@ Topic: Congrats, you’ve made it, after some exploit shenanigans you’ve got y
 
 Prerequisites: Ability to run 2 Windows based VMs at the same time (>=8GB RAM, >=60GB free disk space). That’s it, detailed knowledge of Windows is not required to attend the training, we’ll start with the basics and explore this playground together. I’ll provide you with information & scripts how to setup the lab beforehand.
 
+### Introduction to Return Oriented Programming
+
+Teacher: [Chiliz](https://twitter.com/chiliz16)
+
+Topic: This is an introductory workshop to Return Oriented Programming, a technique to overcome non-executable stacks during exploitation. The workshop aims to be fitting for people with varying background, as it starts easy and with detailed
+explanation on hands-on exercises but increases difficulty over time. The workshop is a good fit for attendees who already know about buffer overflows but want to go further. For them it's a perfect next step which will take their exploiting skills to the next level!
+
+The basic example of exploiting a buffer overflow is pushing shellcode on the stack and jumping to it. This is successful when there are no security mechanisms. But how can we get a shell if the stack is not executable? Return Oriented Programming (ROP) is a neat technique to defeat this protection.
+
+In this workshop, we will step up the game by turning on the NX-bit and using ROP to exploit the buffer overflow anyway. The basic idea of ROP is to use code snippets that are already in the binary. This way, we can put the shellcode together like we would tinker a blackmailing letter from old newsletters, putting the fitting pieces one after another, until we get the payload we want.
+
+Prerequisites:
+- Bring a laptop with a hypervisor (e.g. VirtualBox, VMware) installed.
+- Import the Workshop VM.
+- Have basic knowledge about buffer overflows and x86 assembler (The workshop features a quick introduction to these topics, if you are a quick learner you can also participate without prior knowledge).
+
 ## **Track 2:**
-
-### Writing Open-Source Detection for Android Stalkerware
-
-Teacher: [Joanne Kim](https://twitter.com/j0j0beanzzz), Research Engineer, Talos Intellingence, gardener and learner of new and old languages
-
-Topic: I will guide the attendees on how to find, reverse, and write Snort rules and ClamAV signatures for Android stalkerware samples. With the exception of VirusTotal Intelligence, this workshop relies on open source tools and programs, like jd-gui and dex2jar, to reverse these APKs. These apps are rarely obfuscated and insecure, making reversing and writing coverage simple for newcomers to reversing Android malware and writing Snort and ClamAV signatures.
 
 ### Windows EDR 101
 
@@ -73,6 +83,34 @@ Teacher: [Eva Szilagyi](https://twitter.com/EvaSzilagyiSec), IT Security Consult
 Topic: Context-dependent output encoding? Prepared statement with bind variables? Disable external entity resolution? Storing passwords in salted hash format? If you are involved in Java development, you should join this workshop and see, why these are important from a security perspective! This workshop is meant for developers and security professionals alike. It is delivered by an information security professional with the purpose of demystifying web application secure coding.
 
 Prerequisites: A laptop with at least 8 GB of RAM and 40-50 GB of free disk space, VMware Workstation, VMware Fusion or VMware Player installed.
+
+### Intro to Dark Arts: Getting Started with CTFs
+
+Teacher: Geethna T K 
+
+Topic: This workshop will introduce the participants to the world of CTF contests as a way to learn real-world security skills, providing them with the basic knowledge for playing CTF, and to get started with solving hands-on challenges in the domains of Cryptography and Binary Exploitation. The workshop will consist of hands-on sessions for each domain as mentioned above to help participants get familiarised with the tools and libraries for each corresponding domains. 
+
+Key takeaways:  
+The participants will be able to walk away with the following takeaways from this class:  
+- Understanding of how CTFs can help getting started with security
+- An overview of a jeopardy style CTF and basic tactics and techniques to solve them
+- How to be fluent with scripting for sending exploits to the challenge server
+- Practise challenges to help in applying learned concepts and deepen the understanding
+- Insight into RSA cryptosystem and learn how to implement basic attacks
+- Pwning Lab will help in getting a better understanding of binaries and exploiting them
+
+Prerequisites:  
+- Familiarity with working in Linux OS  https://lym.readthedocs.io/en/latest/
+
+- Crypto Lab
+  - Python Programming https://www.learnpython.org/
+- Pwning Lab  - Basic knowledge about:  
+  - C programming https://www.tutorialspoint.com/cprogramming/
+  - Instructions in x86 assembly https://www.tutorialspoint.com/assembly_programming/
+  - Python programming https://www.learnpython.org/
+  - Knowledge about stack and function call http://www.securitytube.net/groups?operation=view&groupId=5
+
+- Laptop Requirements:  A laptop having more than 4GB RAM along with a Virtualbox or Vmware installed.
 
 ## **Track 3:**
 
