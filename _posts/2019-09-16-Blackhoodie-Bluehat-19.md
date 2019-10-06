@@ -6,7 +6,7 @@ tags: [workshop, BlackHoodie, spinoff, BlueHat, Seattle]
 date: 2019-09-16 10:00:00 -0700
 ---
 
-We're partnering with BlueHat Seattle again this year!! Get set for the second BlackHoodie event in the USA for 2019! Just like other BlackHoodie events, this will be free, it will be women only, and it will be crazy challenging. 
+We're partnering with BlueHat Seattle again this year!! Get set for the second BlackHoodie event in the USA for 2019! Just like other BlackHoodie events, this will be free, it will be for women, and it will be crazy challenging. 
 
 ### Deets:
 Date: October 22nd-23rd, 2019   
