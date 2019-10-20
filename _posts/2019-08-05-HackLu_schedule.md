@@ -88,7 +88,7 @@ Prerequisites: A laptop with at least 8 GB of RAM and 40-50 GB of free disk spac
 
 Teacher: [Geethna T K](https://twitter.com/geethnatk) and [Sowmya P](https://twitter.com/__4lph4__)
 
-Topic: This workshop will introduce the participants to the world of CTF contests as a way to learn real-world security skills, providing them with the basic knowledge for playing CTF, and to get started with solving hands-on challenges in the domains of Cryptography and Binary Exploitation. The workshop will consist of hands-on sessions for each domain as mentioned above to help participants get familiarised with the tools and libraries for each corresponding domains. 
+Topic: This workshop will introduce the participants to the world of CTF contests as a way to learn real-world security skills, providing them with the basic knowledge for playing CTF, and to get started with solving hands-on challenges in the domains of Cryptography and Binary Exploitation. The workshop will consist of hands-on sessions for each domain as mentioned above to help participants get familiarised with the tools and libraries for each corresponding domains.
 
 Key takeaways:  
 The participants will be able to walk away with the following takeaways from this class:  
@@ -161,17 +161,16 @@ Prerequisites: a basic knowledge of x86 assembly, things like ABI, calling conve
 
 | Time  | Talk                                                         | Presenter                                            |
 | :---: | :----------------------------------------------------------- | :--------------------------------------------------- |
-| 09:00 | Welcome :D                        |                                          |
+| 09:00 | Welcome :D                                                   |                                                      |
 | 09:30 | Introduction to Web Application Penetration Testing          | [Andrea Hauser](https://twitter.com/aha_181)         |
-| 10:30 | Pentesting Mobile Apps with Frida                            | [Laura Garcia](https://www.linkedin.com/in/laura-garcia-cybersec) & [Marta Barrio](https://www.linkedin.com/in/martabarriomarcos) |
+| 10:30 | Compiler Bugs and bug compilers                              | [Mari0n](https://twitter.com/pinkflawd)              |
 | 11:30 | Linux Kernel and/or Driver Development 101                   | Anna-Lena                                            |
-| 12:30 | BinCAT: purrfecting binary static analysis                   | Sarah Zennou                                        |
+| 12:30 | BinCAT: purrfecting binary static analysis                   | Sarah Zennou                                         |
 | 13:00 | Lunch                                                        |                                                      |
-| 14:00 | Exploiting bug report systems in the game industry           | [Andreia Gaita](https://twitter.com/sh4na)  |
+| 14:00 | Exploiting bug report systems in the game industry           | [Andreia Gaita](https://twitter.com/sh4na)           |
 | 15:00 | A QuickLook at macOS cache forensics                         | [Kinga Kieczkowska](https://twitter.com/kieczkowska) |
-| 15:30 | Don’t think outside the box - keep it to yourself (and your VM) | Bell Levin                                           |
-| 16:00 | Losing Face: Hacking Facial Recognition<br />Technology with Makeup and Other Tricks | [Camilla Montonen](https://twitter.com/spimescape)   |
-| 17: 00 | Closing Remarks |  |
+| 15:30 | Don’t think outside the box - keep it to yourself (and your VM) | Bell Levin                                        |
+| 16:00 | Closing Remarks                                              |                                                      |
 
 Please notice that the registration will be worked on FIFO basis and the space is limited. Be sure you check the prerequisites for the workshops before signing in, as you can only sign for a track and not for a single class.
 
