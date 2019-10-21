@@ -163,6 +163,7 @@ Prerequisites: a basic knowledge of x86 assembly, things like ABI, calling conve
 | :---: | :----------------------------------------------------------- | :--------------------------------------------------- |
 | 09:00 | Welcome :D                                                   |                                                      |
 | 09:30 | Introduction to Web Application Penetration Testing          | [Andrea Hauser](https://twitter.com/aha_181)         |
+| 10:00 | Fingerpointing false positives                               | [Desiree](https://twitter.com/d3sre)                 |
 | 10:30 | Compiler Bugs and bug compilers                              | [Mari0n](https://twitter.com/pinkflawd)              |
 | 11:30 | Linux Kernel and/or Driver Development 101                   | Anna-Lena                                            |
 | 12:30 | BinCAT: purrfecting binary static analysis                   | Sarah Zennou                                         |
