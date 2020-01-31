@@ -10,7 +10,7 @@ $ bundle install --path vendor/bundle
 
 Then you can build and run the development web server:
 
-``
+```
 $ bundle exec jekyll serve
 ```
 
