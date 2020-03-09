@@ -54,8 +54,14 @@ Who should take this course?
 - This is an introductory course, so if ROP chains are familiar friends this isn’t the workshop for you
 
 ---
-## What is BlackHoodie? ##
+## About Mary Walker ##
 
+Mary is a security engineer who works on digital forensics and malware analysis with a focus on all things malware. Her current role is structured to support incident response, and she loves helping defenders keep organizations secure. She writes and tests binary exploit challenges for capture the flag competitions for fun and got her start in security by writing buffer overflows. She has been working in Infosec for just over three years after earning an MS in Cyber Security; she holds an OSCP, GCFA, GREM, and GXPN. 
+
+Mary lives in Seattle, WA with her husband along with her German Shepherd and cat. Outside of security, she’s excited about mechanical keyboards, PC gaming, dogs, coffee, and books. Feel free to reach out to her on Twitter - [@mairebear](http://twitter.com/Mairebear).
+
+---
+## About BlackHoodie ##
 BlackHoodie is a free, women only reverse engineering workshop. More
 information can be found here: <https://www.blackhoodie.re/about/>.
 
