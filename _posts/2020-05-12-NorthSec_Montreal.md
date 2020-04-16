@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "BlackHoodie NorthSec May 2020"
+title: "BlackHoodie NorthSec May 2020 - TBC"
 exerpt: "BlackHoodie Workshop for Women at NorthSec Montreal 2020"
 tags: [workshop, conferences, BlackHoodie]
 date: 2020-03-05 00:00:00 -0500
@@ -9,15 +9,15 @@ date: 2020-03-05 00:00:00 -0500
 # Blackhoodie Crash Course in Binary Exploitation
 ## by Mary Walker ([@mairebear](https://twitter.com/Mairebear))
 
-**When:** May 12 and 13 2020
+**When:** TBC
 
-**Where:** Holiday Inn
+**Where:** Online
 
 **Who:** Women, as self-identified (Why? See [Blackhoodie about](https://blackhoodie.re/about/))
 
-**Registration:** Via Google form https://forms.gle/TT4c8f79j2MUsnH69 We’ll email you to confirm your registration and we’ll have a waitlist if the event fills up.
+**Registration:** Via [Google form](https://forms.gle/TT4c8f79j2MUsnH69) We’ll email you to confirm your registration and we’ll have a waitlist if the event fills up.
 
-**Fees:** The training is free. Meals and a cocktail will be offered (also for free). Once you register, you’ll have the option to get a ticket for the NorthSec conference as well.
+**Fees:** The training is free.
 
 ## Agenda
 
@@ -27,7 +27,7 @@ This course is hands-on, so be prepared to dive right in! I hope you’ll grow t
 
 ### *Day 1*
 
-On the first day we’ll spend some time understanding what makes this class of vulnerabilities possible and why this still matters in 2020. After just a little bit of background, we’ll start to dive in with some hands on labs. To learn the process of writing simple stack based overflows, we’ll work on both Linux and Windows systems (x86 architecture)— first modifying exploits and eventually writing one from scratch. This means we’ll be getting down into assembly and talking about processor registers, memory management and more. 
+On the first day we’ll spend some time understanding what makes this class of vulnerabilities possible and why this still matters in 2020. After just a little bit of background, we’ll start to dive in with some hands on labs. To learn the process of writing simple stack based overflows, we’ll work on both Linux and Windows systems (x86 architecture)— first modifying exploits and eventually writing one from scratch. This means we’ll be getting down into assembly and talking about processor registers, memory management and more.
 
 ### *Day 2*
 
@@ -41,7 +41,7 @@ On day two we’ll talk both about mitigations that software and operating syste
     - Virtualization software such as virtual box or VMware (virtual box recommended)
     - USB 3.0 or USB C port
     - Chrome or Firefox
-    - Administrator privileges 
+    - Administrator privileges
 
 **Who should take this course?**
 
@@ -56,7 +56,7 @@ Who should take this course?
 ---
 ## About Mary Walker ##
 
-Mary is a security engineer who works on digital forensics and malware analysis with a focus on all things malware. Her current role is structured to support incident response, and she loves helping defenders keep organizations secure. She writes and tests binary exploit challenges for capture the flag competitions for fun and got her start in security by writing buffer overflows. She has been working in Infosec for just over three years after earning an MS in Cyber Security; she holds an OSCP, GCFA, GREM, and GXPN. 
+Mary is a security engineer who works on digital forensics and malware analysis with a focus on all things malware. Her current role is structured to support incident response, and she loves helping defenders keep organizations secure. She writes and tests binary exploit challenges for capture the flag competitions for fun and got her start in security by writing buffer overflows. She has been working in Infosec for just over three years after earning an MS in Cyber Security; she holds an OSCP, GCFA, GREM, and GXPN.
 
 Mary lives in Seattle, WA with her husband along with her German Shepherd and cat. Outside of security, she’s excited about mechanical keyboards, PC gaming, dogs, coffee, and books. Feel free to reach out to her on Twitter - [@mairebear](http://twitter.com/Mairebear).
 
