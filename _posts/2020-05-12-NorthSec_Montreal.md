@@ -21,7 +21,7 @@ date: 2020-03-05 00:00:00 -0500
 
 ## ***UPDATE***
 
-In the wake of the Covid-19 situation, the Blackhoodie workshop at NorthSec has been cancelled. However the conference will be free and happen online on May 14-15, 2020. Stay tuned for the speakers' announcement and the procedure by following the NorthSec twitter account (@NorthSec_io)
+In the wake of the Covid-19 situation, the Blackhoodie workshop at NorthSec has been cancelled. However the conference will be free and will happen online on May 14-15, 2020. Stay tuned for the speakers' announcement and the procedure by following the NorthSec twitter account (@NorthSec_io)
 
 ---
 ## Agenda
