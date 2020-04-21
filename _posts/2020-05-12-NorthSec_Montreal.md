@@ -6,19 +6,24 @@ tags: [workshop, conferences, BlackHoodie]
 date: 2020-03-05 00:00:00 -0500
 ---
 
-# Blackhoodie Crash Course in Binary Exploitation
+# Blackhoodie Crash Course in Binary Exploitation (CANCELLED)
 ## by Mary Walker ([@mairebear](https://twitter.com/Mairebear))
 
-**When:** TBC
+**When:** Cancelled
 
-**Where:** Online
+**Where:** ~~Online~~
 
 **Who:** Women, as self-identified (Why? See [Blackhoodie about](https://blackhoodie.re/about/))
 
-**Registration:** Via [Google form](https://forms.gle/TT4c8f79j2MUsnH69) We’ll email you to confirm your registration and we’ll have a waitlist if the event fills up.
+**Registration:** ~~Via [Google form](https://forms.gle/TT4c8f79j2MUsnH69) We’ll email you to confirm your registration and we’ll have a waitlist if the event fills up.~~
 
 **Fees:** The training is free.
 
+## ***UPDATE***
+
+In the wake of the Covid-19 situation, the Blackhoodie workshop at NorthSec has been cancelled. However the conference will be free and happen online on May 14-15, 2020. Stay tuned for the speakers' announcement and the procedure by following the NorthSec twitter account (@NorthSec_io)
+
+---
 ## Agenda
 
 Have you ever wondered how to write an exploit for a piece of vulnerable software? When a program is vulnerable to remote code execution— what does that even mean? What’s a buffer overflow, and why does it matter in the context of information security? This two day workshop aims to shed some light on these topics with a crash course in the wild and weird world of binary exploitation, or taking advantage of a software bug to get a program to do something you, a hacker, want it to.
