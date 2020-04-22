@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "BlackHoodie NorthSec May 2020 - TBC"
+title: "BlackHoodie NorthSec May 2020 - CANCELLED"
 exerpt: "BlackHoodie Workshop for Women at NorthSec Montreal 2020"
 tags: [workshop, conferences, BlackHoodie]
 date: 2020-03-05 00:00:00 -0500
