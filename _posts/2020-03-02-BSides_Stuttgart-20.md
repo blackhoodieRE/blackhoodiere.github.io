@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "BlackHoodie Stuttgart May 2020: Call for Participation"
+title: "BlackHoodie Stuttgart May 2020 - Sadly Cancelled"
 exerpt: "BlackHoodie Workshop for women at BSides Stuttgart 2020"
 tags: [workshop, conferences, BlackHoodie]
 date: 2020-03-02 00:00:00 -0500
