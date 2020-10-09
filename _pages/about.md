@@ -24,18 +24,17 @@ Blackhoodie is a free, women only reverse engineering workshop.
 
 ## Hardfacts
 
-* There won't be slides, there will be you, and your debugger, only.
-* Online preparation assignments, 4 of them, over the course of two months prior to the workshop
+* There won't be very many slides, there will mostly be just you, and your tools of choice, very hands-on
+* Some classes might require you to do preparation assignments
 * No fees, no strings attached, all you have to do is get there
 
 
-## Prerequisites
+## Prerequisites for most classes
 
 * Identifying [partially or wholy] as female
 * Computer science background in a sense you understand programming logic, how a processor works and how an operating system works
-* A Notebook capable of running at least one virtual machine
-* A virtual machine, preferred WinXP 32-bit
-* Guts :) (It is going to be a lot to learn in a very short time)
+* A Notebook capable of running at least one virtual machine, and where you have the rights to install a list of tools
+* Guts :) (Our classes mean learning a lot in a very short time)
 
 ### WHY ARE WE DOING THIS
 
