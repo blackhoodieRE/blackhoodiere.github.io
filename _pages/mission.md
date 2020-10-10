@@ -11,23 +11,23 @@ header:
 <br/>
 
 
-. BlackHoodie is a series of technical trainings aiming to attract more women to the field of cyber security
+* BlackHoodie is a series of technical trainings aiming to attract more women to the field of cyber security
 
-. Our events are women-only, except if individual organizers state otherwise
+* Our events are women-only, except if individual organizers state otherwise
 
-. Whether introduction level or advanced, classes are always challenging
+* Whether introduction level or advanced, classes are always challenging
 
-. All of our events are free to attend
+* All of our events are free to attend
 
-. We do not exert any preference in education level, occupation or corporate affiliation of attendees
+* We do not exert any preference in education level, occupation or corporate affiliation of attendees
 
-. BlackHoodie is dedicated to serve the community, we aim to integrate, not separate
+* BlackHoodie is dedicated to serve the community, we aim to integrate, not separate
 
-. BlackHoodie is independent, and cannot be leveraged to promote anything but its own mission
+* BlackHoodie is independent, and cannot be leveraged to promote anything but its own mission
 
-. We seek quality over quantity, in number of classes and attendees
+* We seek quality over quantity, in number of classes and attendees
 
-. We also support/encourage attendees to start giving technical trainings thereby providing a platform to build their confidence  
+* We also support/encourage attendees to start giving technical trainings thereby providing a platform to build their confidence  
 
  
 
