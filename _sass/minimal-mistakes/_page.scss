@@ -75,7 +75,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.7em;
   }
 
   /* paragraph indents */
@@ -112,11 +112,11 @@
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: $type-size-4;
+    font-size: 0.5em;
   }
 
   .small {
-    font-size: $type-size-4;
+    font-size: 0.5em;
   }
 
   /* blockquote citations */
