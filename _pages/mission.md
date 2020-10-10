@@ -8,7 +8,7 @@ header:
     image: /assets/images/banner_1.png
 ---
 
-
+<br/><br/>
 
 
 . BlackHoodie is a series of technical trainings aiming to attract more women to the field of cyber security
@@ -75,7 +75,7 @@ Over the years the interest in BlackHoodie events has skyrocketed, at a 2018 eve
 Our events are organized by volunteers, and no one of us is a professional event host. Shuffling 30 attendees is easy, 60 is difficult, more than 60 is hard. We found the following: Classes of 20 to 30 attendees are comfortable, with in-person classes we won’t go larger than this; two classes in parallel is the comfort zone, three is the estimated upper limit. Above a certain number of people, crowds become very challenging to handle in everything from finding a dinner place, to guaranteeing on-site safety. So yeah, we have limited spots to keep an event fun for everyone. The last thing we want is to burn out our volunteers!
 
  
-
+<br/><br/>
 
 ## **_Ever been bummed you cannot attend BlackHoodie?_**
 
@@ -87,6 +87,7 @@ A-MA-ZING materials covering a vast selection of topics, including reverse engin
 
 Also, solely attending BlackHoodie does not, to repeat that, NOT, make anyone a specialist. A two-day training simply can't do this. Whether you become a badass hackerette or hacker is your own achievement. Our goal is to bring complex subjects to the table, give an insight on what this complexity means, how to approach it hands on, foster confidence and curiosity, ideally connect mentors and mentees. 
 
+<br/><br/>
 
 ## Interested? Here is how you can get involved
 
