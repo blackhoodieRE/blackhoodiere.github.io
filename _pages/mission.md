@@ -10,9 +10,6 @@ header:
 
 
 
-# **BlackHoodie – Our Mission**
-
- 
 
 . BlackHoodie is a series of technical trainings aiming to attract more women to the field of cyber security
 
