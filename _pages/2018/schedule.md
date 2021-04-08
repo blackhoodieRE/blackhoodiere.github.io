@@ -3,12 +3,12 @@ layout: single
 title: Schedule
 excerpt: "Schedule for Blackhoodie"
 modified: 2018-06-16T00:44:38.564948-04:00
-permalink: /archive/bh2018/
+permalink: /archives/bh2018/
 header:
     image: /assets/images/banner_1.png
 ---
 
-**#BlackHoodie18 -4th Edition**
+**BlackHoodie 2018 - 4th Edition**
 
 If you want to check our booklet, click [here](https://tiny.cc/bh18-booklet).
 
