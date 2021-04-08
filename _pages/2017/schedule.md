@@ -1,14 +1,14 @@
 ---
 layout: single
 title:
-excerpt: "Archive Blackhoodie 2017"
+excerpt: "Blackhoodie 2017"
 modified: 2017-08-08T19:44:38.564948-04:00
-permalink: /archive/bh2017/
+permalink: /archives/bh2017/
 header:
     image: /assets/images/banner_1.png
 ---
 
-**#BlackHoodie17 -3rd Edition Archive**
+**BlackHoodie 2017 - 3rd Edition Archive**
 
 **Friday, November 24th, 2017**
 
