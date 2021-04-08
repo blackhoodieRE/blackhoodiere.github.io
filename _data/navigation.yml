@@ -6,3 +6,5 @@ main:
     url: /archives/
   - title: "Calendar"
     url: /calendar/
+  - title: "Contact"
+    url: /contact/
