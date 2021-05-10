@@ -3,7 +3,6 @@ layout: single
 title: Challenge
 excerpt: "Challenge for Blackhoodie18"
 modified: 2018-09-16T00:44:38.564948-04:00
-permalink: /challenge/
 header:
     image: /assets/images/banner_1.png
 ---

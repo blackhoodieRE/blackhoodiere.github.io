@@ -10,11 +10,13 @@ date: 2021-05-20 00:00:00 -0500
 
 **Course by Morgan Whitlow ([@SynapticRewrite](https://twitter.com/SynapticRewrite))**
 
+
 **When:** 20th May, 2021
 
 **Where:** Virtual
 
 **Registration:** https://www.eventbrite.ca/e/reverse-engineering-practical-overview-blackhoodie-tickets-153736557181
+
 
 **Fees:** The training is free.
 

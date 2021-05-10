@@ -2,9 +2,9 @@
 main:
   - title: "Mission"
     url: /mission/
-  - title: "Challenge"
-    url: /challenge/
-  - title: "Archive"
-    url: /archive/
+  - title: "Past Events"
+    url: /archives/
   - title: "Calendar"
     url: /calendar/
+  - title: "Contact"
+    url: /contact/
