@@ -13,32 +13,35 @@ Guess what, we’re back! COVID had us cancel a number of events in 2020, and we
 ## **TL;DR: **
 
 **What:** classes on hardware hacking and software reverse engineering (intermediate)
-**When:** June 1st & 2nd 2022 - 9am-5pm
-**Where:** Hilton Hotel, 1255 Jeanne Mance St, Montreal
-**Who:** Women
-**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSeKLQtOs4dmGQh4rSV9bFY_x4Xs6y4tzIgoAVuKRj33MWkEDg/viewform?usp=sf_link), closing on May 25th or when all the seats are taken (VERY LIMITED CAPACITY)
-**Fees:** The workshop is free; food, travel and accommodation is responsibility of attendees
 
+**When:** June 1st & 2nd 2022 - 9am-5pm
+
+**Where:** Hilton Hotel, 1255 Jeanne Mance St, Montreal
+
+**Who:** Women
+
+**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSeKLQtOs4dmGQh4rSV9bFY_x4Xs6y4tzIgoAVuKRj33MWkEDg/viewform?usp=sf_link), closing on May 25th or when all the seats are taken (VERY LIMITED CAPACITY)
+
+**Fees:** The workshop is free; food, travel and accommodation is responsibility of attendees
 
 ---
 
-
 ## **Agenda**
-
 
 ### **Track 1: Introduction to Hardware Hacking (Title TBD) (2 days)**
 
 **Teachers:** Morgan Whitlow (@SynapticRewrite) & Emma Benoit (@_kylma)
+
 **Capacity:** 10 seats
 
 **Topic:** During these two days of hardware hacking, attendees will get to tear open embedded devices and learn how to tap into them directly in order to bypass security controls, while gaining access to the target operating system in the process. Topics will include common tools and techniques such as using a serial adapter to connect to a device over UART, dumping its firmware and getting a root shell through the bootloader.
 
 **Prerequisites:** A laptop with USB ports and administrator access. Hardware hacking tools such as logic analyzers and serial adapters will be provided.
 
-
 ### **Track 2: Reverse Engineering 102 (2 days)**
 
 **Teachers:** Gal Zaban (@0xgalz) & Marion Marschalek (@pinkflawd)
+
 **Capacity:** 10 seats
 
 **Topic:** The first day of the training will explain C++ reverse engineering topics including techniques and tools for researching C++ binaries with Gal. We will start with understanding basic C++ objects, how to identify and create their structures in IDA and continue with C++ Inheritance, Virtual Calls and Templates. We will also study work methods for reverse engineering C++, practice, fight and untangle C++ programs using static analysis.
@@ -46,14 +49,11 @@ On day two, the attendees will explore runtime packers and anti-analysis measure
 
 **Prerequisites:** A virtual machine of your choice with IDAPro Free installed, basic understanding of x86-64 reverse engineering
 
-
 ---
-
 
 ## **What is BlackHoodie?**
 
 BlackHoodie is a free, women only reverse engineering workshop and community. More information can be found here:[ https://www.blackhoodie.re/about/](https://blackhoodie.re/mission/)
-
 
 ### **Why women-only?**
 
