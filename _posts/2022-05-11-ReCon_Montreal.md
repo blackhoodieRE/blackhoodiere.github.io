@@ -6,8 +6,6 @@ tags: [workshop, conferences, BlackHoodie, ReCon]
 date: 2022-05-11 00:00:00 -0500
 ---
 
-# **BlackHoodie at ReCon 2022**
-
 Guess what, we’re back! COVID had us cancel a number of events in 2020, and we needed to go virtual for 2020 and 2021. Now that we’re slowly going back to crowded spaces, we figured it's time to go back to the classroom. ReCon Montreal amazingly offered to host us for two days of BlackHoodie trainings \m/ What better place to learn about reverse engineering, than at the mother of reverse engineering conferences? The dates are approaching fast, and we have very limited capacity.
 
 
@@ -35,26 +33,18 @@ Guess what, we’re back! COVID had us cancel a number of events in 2020, and we
 ### **Track 1: Introduction to Hardware Hacking (Title TBD) (2 days)**
 
 **Teachers:** Morgan Whitlow (@SynapticRewrite) & Emma Benoit (@_kylma)
-
 **Capacity:** 10 seats
-
 **Topic:** During these two days of hardware hacking, attendees will get to tear open embedded devices and learn how to tap into them directly in order to bypass security controls, while gaining access to the target operating system in the process. Topics will include common tools and techniques such as using a serial adapter to connect to a device over UART, dumping its firmware and getting a root shell through the bootloader.
-
 **Prerequisites: **A laptop with USB ports and administrator access. Hardware hacking tools such as logic analyzers and serial adapters will be provided.
 
 
 ### **Track 2: Reverse Engineering 102 (2 days)**
 
 **Teachers:** Gal Zaban (@0xgalz) & Marion Marschalek (@pinkflawd)
-
 **Capacity:** 10 seats
-
 **Topic:** The first day of the training will explain C++ reverse engineering topics including techniques and tools for researching C++ binaries with Gal.
-
 We will start with understanding basic C++ objects, how to identify and create their structures in IDA and continue with C++ Inheritance, Virtual Calls and Templates. We will also study work methods for reverse engineering C++, practice, fight and untangle C++ programs using static analysis.
-
 On day two, the attendees will explore runtime packers and anti-analysis measures of binaries with Marion. We will start with exploring simple self-modifying code, and eventually look at trickery that software protection usually employs to throw off the analyst. 
-
 **Prerequisites: **A virtual machine of your choice with IDAPro Free installed, basic understanding of x86-64 reverse engineering
 
 
