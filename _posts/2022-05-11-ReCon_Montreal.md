@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Blackhoodie at ReCon 2022"
+exerpt: "Hardware hacking and RE102 at ReCon Montreal"
+tags: [workshop, conferences, BlackHoodie, ReCon]
+date: 2022-05-11 00:00:00 -0500
+---
+
 # **BlackHoodie at ReCon 2022**
 
 Guess what, we’re back! COVID had us cancel a number of events in 2020, and we needed to go virtual for 2020 and 2021. Now that we’re slowly going back to crowded spaces, we figured it's time to go back to the classroom. ReCon Montreal amazingly offered to host us for two days of BlackHoodie trainings \m/ What better place to learn about reverse engineering, than at the mother of reverse engineering conferences? The dates are approaching fast, and we have very limited capacity.
