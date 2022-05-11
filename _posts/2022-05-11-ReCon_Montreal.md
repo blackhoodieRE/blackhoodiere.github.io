@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Blackhoodie at ReCon 2022"
 exerpt: "Hardware hacking and RE102 at ReCon Montreal"
 tags: [workshop, conferences, BlackHoodie, ReCon]
