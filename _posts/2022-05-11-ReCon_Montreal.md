@@ -10,7 +10,7 @@ Hardware hacking and RE102 at ReCon Montreal
 Guess what, we’re back! COVID had us cancel a number of events in 2020, and we needed to go virtual for 2020 and 2021. Now that we’re slowly going back to crowded spaces, we figured it's time to go back to the classroom. ReCon Montreal amazingly offered to host us for two days of BlackHoodie trainings \m/ What better place to learn about reverse engineering, than at the mother of reverse engineering conferences? The dates are approaching fast, and we have very limited capacity.
 
 
-## **TL;DR: **
+## **TL;DR:**
 
 **What:** classes on hardware hacking and software reverse engineering (intermediate)
 
@@ -30,7 +30,7 @@ Guess what, we’re back! COVID had us cancel a number of events in 2020, and we
 
 ## **Agenda**
 
-### **Track 1: Introduction to Hardware Hacking (Title TBD) (2 days)**
+### **Track 1: Introduction to Hardware Hacking (2 days)**
 
 **Teachers:** Morgan Whitlow (@SynapticRewrite) & Emma Benoit (@_kylma)
 
