@@ -20,7 +20,7 @@ Guess what, we’re back! COVID had us cancel a number of events in 2020, and we
 
 **Who:** Women
 
-**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSeKLQtOs4dmGQh4rSV9bFY_x4Xs6y4tzIgoAVuKRj33MWkEDg/viewform?usp=sf_link), closing on May 25th or when all the seats are taken (VERY LIMITED CAPACITY)
+**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSeKLQtOs4dmGQh4rSV9bFY_x4Xs6y4tzIgoAVuKRj33MWkEDg/viewform?usp=sf_link), closing on May 25th or when all the seats are taken
 
 **COVID:** Proof of vaccination will be required to attend, additionally we'll organize on-site quick testing for attendees
 
