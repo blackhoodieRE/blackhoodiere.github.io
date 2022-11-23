@@ -34,7 +34,7 @@ Download .ics version here: [Blackhoodie Virtual 2022 - Agenda ics file](https:/
 | CET (fri) 10:00 pm | IST (sat) 2:30 am  | PST (fri) 1:00 pm  | EST (fri) 4:00 pm  | AEST (sat) 7:00 am  | Break (2 hours)                                                                                                                                |
 | CET (sat) 12:00 am | IST (sat) 4:30 am  | PST (fri) 3:00 pm  | EST (fri) 6:00 pm  | AEST (sat) 9:00 am  | [TALK - ChromeLoader's Evolution by Bethany Hardin (30 minutes)](#chromeloader)                                                                |
 | CET (sat) 12:30 am | IST (sat) 5:00 am  | PST (fri) 3:30 pm  | EST (fri) 6:30 pm  | AEST (sat) 9:30 am  | Questions & Break (15 minutes)                                                                                                                 |
-| CET (sat) 12:45 am | IST (sat) 5:15 am  | PST (fri) 3:45 pm  | EST (fri) 6:45 pm  | AEST (sat) 9:45 am  | [TALK - Ready, Set, Go: An Introduction to Go Reverse Engineering by Christina Johns (30 minutes)](#goreverse)                                 |
+| CET (sat) 12:45 am | IST (sat) 5:15 am  | PST (fri) 3:45 pm  | EST (fri) 6:45 pm  | AEST (sat) 9:45 am  | [TALK - Get set, Go: An Introduction to Go Reverse Engineering by Christina Johns (30 minutes)](#goreverse)                                 |
 | CET (sat) 1:15 am  | IST (sat) 5:45 am  | PST (fri) 4:15 pm  | EST (fri) 7:15 pm  | AEST (sat) 10:15 am | Questions & Break (15 minutes)                                                                                                                 |
 | CET (sat) 1:30 am  | IST (sat) 6:00 am  | PST (fri) 4:30 pm  | EST (fri) 7:30 pm  | AEST (sat) 10:30 am | [TALK - iOS Reverse Engineering with Frida and Corellium! by Christine Fossaceca (30 minutes))](#iosreverse)                                   |
 | CET (sat) 2:00 am  | IST (sat) 6:30 am  | PST (fri) 5:00 pm  | EST (fri) 8:00 pm  | AEST (sat) 11:00 am | Questions & Break (15 minutes)                                                                                                                 |
@@ -192,7 +192,7 @@ At the start of the workshop there will be an introduction to malware theory, wh
 2. [What happens when you make a promise to your partner that you're going to crack a software for them ? by Jessica](#crack)
 3. [Botnet as a service or tuning the payload ? by Laura Varano](#baas)
 4. [ChromeLoader's Evolution by Bethany Hardin](#chromeloader)
-5. [Ready, Set, Go: An Introduction to Go Reverse Engineering by Christina Johns](#goreverse)
+5. [Get set, Go: An Introduction to Go Reverse Engineering by Christina Johns](#goreverse)
 6. [iOS Reverse Engineering with Frida and Corellium! by Christine Fossaceca](#iosreverse)
 7. [The Importance of Knowing Normal by Shelly Giesbrecht](#normal)
 
@@ -279,7 +279,7 @@ It has been seen before that adware is waved off as just being a nuisance malwar
 
 Bethany Hardin is the team lead on VMWare CarbonBlack’s MDR POC team. She has a Master’s of Science in cybersecurity and has worked in several cybersecurity roles including security engineer, analyst, threat intelligence, and forensicator. Her passion in cybersecurity lies in the research of threats.
 
-##  Ready, Set, Go: An Introduction to Go Reverse Engineering by Christina Johns <a name="goreverse"></a>
+##  Get set, Go: An Introduction to Go Reverse Engineering by Christina Johns <a name="goreverse"></a>
 
 ### When
   - CET Saturday 12:45 am
