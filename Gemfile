@@ -10,3 +10,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "listen"
 end
+
+gem "webrick", "~> 1.8"
