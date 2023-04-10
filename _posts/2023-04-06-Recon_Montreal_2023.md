@@ -39,7 +39,7 @@ We're extremely excited to be back at ReCon 2023, and will be offering an in-per
 
 **Topic:** This class will introduce students to the basics of reverse engineering, from analyzing a file format to using disassemblers and debuggers, reading assembly code, understanding functions and call stacks and solving RE challenges with their own skills. Students will walk away with the ability to approach a reverse engineering problem with the right mindset. And it will be fun, lots of fun :)  
 
-**Prerequisites: **A laptop with IDAPro Free installed, class materials will be hosted on github. 
+**Prerequisites:** A laptop with IDAPro Free installed, class materials will be hosted on github. 
 
 
 ---
