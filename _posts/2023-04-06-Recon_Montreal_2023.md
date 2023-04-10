@@ -2,7 +2,7 @@
 title: "Blackhoodie at ReCon 2023"
 exerpt: "Introduction to Software Reverse Engineering"
 tags: [workshop, conferences, BlackHoodie, ReCon]
-date: 2023-04-11 00:00:00 -0500
+date: 2023-04-09 00:00:00 -0500
 ---
 
 # **BlackHoodie at ReCon 2023**
