@@ -16,7 +16,7 @@ We're extremely excited to be back at ReCon 2023, and will be offering an in-per
 
 **When:** June 7 & 8 2023 - 9am-5pm
 
-**Where:** TBD
+**Where:** Montreal, details TBD
 
 **Who:** Women
 
