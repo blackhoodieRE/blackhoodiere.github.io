@@ -7,7 +7,7 @@ date: 2023-04-09 00:00:00 -0500
 
 Introduction to Software Reverse Engineering
 
-We're extremely excited to be back at ReCon 2023, and will be offering an in-person introduction to software reverse engineering for women. The class will be fun, challenging, and prepare students to tackle RE problems on their own. ReCon Montreal is hosting us again for two awesome days of staring at bits and bytes with a vengeance. ReCon is the only conference exclusively focussed on all things reverse engineers, there is no better place to host a reverse engineering class. Depending on class size, we might even have free conference tickets for students <3
+We're extremely excited to be back at [ReCon 2023](https://recon.cx/2023/), and will be offering an in-person introduction to software reverse engineering for women. The class will be fun, challenging, and prepare students to tackle RE problems on their own. ReCon Montreal is hosting us again for two awesome days of staring at bits and bytes with a vengeance. ReCon is the only conference exclusively focussed on all things reverse engineers, there is no better place to host a reverse engineering class. Depending on class size, we might even have free conference tickets for students <3
 
 
 ## **TL;DR:**
