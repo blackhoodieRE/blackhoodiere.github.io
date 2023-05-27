@@ -8,8 +8,8 @@ header:
     image: /assets/images/banner_1.png
 ---
 
-[**BlackHoodie 2017 - 3rd Edition**](bh2017/)
+[**BlackHoodie 2017 - 3rd Edition Schedule**](bh2017/)
 
-[**BlackHoodie 2018 - 4th Edition**](bh2018/)
+[**BlackHoodie 2018 - 4th Edition Schedule**](bh2018/)
 
 ----
