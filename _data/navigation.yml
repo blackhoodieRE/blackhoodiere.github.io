@@ -2,11 +2,12 @@
 main:
   - title: "Mission"
     url: /mission/
-  - title: "Past Blackhoodies"
-    url: /past-events/
-  - title: "Archived"
+  - title: "Past BlackHoodies"
     url: /archives/
   - title: "Calendar"
     url: /calendar/
-  - title: "Contact"
+  - title: "Get Involved"
     url: /contact/
+  - title: "BlackHoodie Institute"
+    url: /institute/
+ 
