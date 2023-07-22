@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Posts by Year"
+title: "Events by Year"
 excerpt: "BlackHoodie past events"
 modified: 2017-08-08T19:44:38.564948-04:00
 permalink: /archives/
