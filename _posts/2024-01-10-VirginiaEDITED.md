@@ -2,7 +2,7 @@
 title: "Blackhoodie 2024"
 exerpt: "Reverse Engineering, iOS, Hardware"
 tags: [workshop, conferences, BlackHoodie]
-date: 2024-01-10 00:00:00 -0500
+date: 2023-11-26 00:00:00 -0500
 ---
 
 # **BlackHoodie 2024**
