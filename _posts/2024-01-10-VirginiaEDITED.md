@@ -4,8 +4,7 @@ exerpt: "Reverse Engineering, iOS, Hardware"
 tags: [workshop, conferences, BlackHoodie]
 date: 2023-11-26 00:00:00 -0500
 ---
-
-# **BlackHoodie NOVA 2024**
+Reverse Engineering, iOS, Hardware
 
 Yo all our people on the Eastcoast, here we go! The first BlackHoodie on the eastern shores of the US is underway, and will happen January 10th and 11th 2024 at the Microsoft office in Arlington, Virginia at.  We will be offering three incredible trainings, so sign up before they fill up!
 
