@@ -25,7 +25,7 @@ Yo all our people on the Eastcoast, here we go! The first BlackHoodie on the eas
 
 **Who:** Women
 
-**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSeKLQtOs4dmGQh4rSV9bFY_x4Xs6y4tzIgoAVuKRj33MWkEDg/viewform?usp=sf_link), closing on 12/31/23 or when all the seats are taken!
+**Registration:** [fill form here](https://docs.google.com/forms/d/e/1FAIpQLSck87ONpo8aavICKhwUcvIamHCE8acV_kXrpfRbBrZzdihM9Q/viewform?usp=sf_link), closing on 12/31/23 or when all the seats are taken!
 
 **Fees:** The workshop is free; food, travel and accommodation is responsibility of attendees
 
