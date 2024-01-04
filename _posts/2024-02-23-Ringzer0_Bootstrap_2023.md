@@ -5,7 +5,7 @@ tags: [workshop, conferences, BlackHoodie, ReCon]
 date: 2024-01-03 00:00:00 -0500
 ---
 
-# **BlackHoodie at Ringzer0 Bootstrap 2024**
+Reverse engineer, from 0 to hero!
 
 Howdy, y'all :D For the first time ever BlackHoodie will go to Texas! Thanks to our fabulous hosts at Ringzero0 Bootstrap we're able to bring a day of joy and reverse engineering to aspiring hackerettes in Austin. Come join us on a journey from your first mov instruction to understanding binary code and analyzing applications. This 1-day training is packed with practical information and hands on exercises, and its gonna be fun, challenging, and prepare students to tackle RE problems on their own.
 
