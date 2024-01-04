@@ -2,7 +2,7 @@
 title: "Blackhoodie at Ringzer0 Bootstrap 2024"
 exerpt: "Introduction to Software Reverse Engineering"
 tags: [workshop, conferences, BlackHoodie, ReCon]
-date: 2023-12-26 00:00:00 -0500
+date: 2024-01-03 00:00:00 -0500
 ---
 
 # **BlackHoodie at Ringzer0 Bootstrap 2024**
