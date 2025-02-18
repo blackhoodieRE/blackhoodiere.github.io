@@ -5,7 +5,7 @@ tags: [workshop, conferences, BlackHoodie, Ringzer0]
 date: 2025-02-17 00:00:00 -0500
 ---
 
-# **BlackHoodie at Ringzer0 Bootstrap 2025**
+Compiler Internals for Security Engineers
 
 Howdy, y'all, again :D BlackHoodie is coming back to Austin! Our friends at Ringzero0 are hosting us again, and we're super happy to bring a compiler internals training to our esteemed community of women hackers. This 1-day class introduces students to security relevant aspects of compiler internals, and with guided examples enables students to perform their own code modifications through a compiler. 
 
