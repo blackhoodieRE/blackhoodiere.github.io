@@ -2,7 +2,7 @@
 title: "Blackhoodie at Ringzer0 Bootstrap 2025"
 exerpt: "Compiler Internals for Security Engineers"
 tags: [workshop, conferences, BlackHoodie, Ringzer0]
-date: 2023-12-26 00:00:00 -0500
+date: 2025-02-17 00:00:00 -0500
 ---
 
 # **BlackHoodie at Ringzer0 Bootstrap 2025**
