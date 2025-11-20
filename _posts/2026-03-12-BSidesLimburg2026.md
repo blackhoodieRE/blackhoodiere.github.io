@@ -9,7 +9,7 @@ date: 2025-11-17 00:00:00 -0500
 
 The event will take place the day before the conference. We’re offering a 1-day free training, for women, by women.
 
-We are also thrilled to announce that tickets to the conference will be given to each attendee, thanks to the support of BSides Limburg. A big thanks to the organisers for providing these tickets and supporting the mission of Blackhoodie.
+We are also thrilled to announce that tickets to the conference will be given to each attendee, thanks to the support of BSides Limburg. A big thanks to the organisers for providing these tickets and supporting the mission of Blackhoodie, and a big thank you to CybHERstrong (founded by Veerle Peeters) for sponsoring our training.
 
 **TL;DR:**
 
