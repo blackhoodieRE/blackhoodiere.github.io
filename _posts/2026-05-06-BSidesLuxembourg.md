@@ -5,14 +5,14 @@ tags: [workshop, conferences, BlackHoodie, BSides Luxembourg]
 date: 2026-03-12 00:00:00 -0500
 ---
 
-Hey there Luxembourg, BlackHoodie will be back in your beautiful capital this spring! On June 6th [BSides Luxembourg](https://2026.bsides.lu/) in collaboration with the [Luxembourg House of Cybersecurity](https://www.lhc.lu/) to host BlackHoodie for a day of Linux Forensics. The training is followed by two days of conference, where our attendees are also more than welcome, the BSides ticket is included. What a great opportunity, and our heartfelt thank you to the Luxembourg House of Cybersecurity for their support. We are thrilled to be back in the heart of Europe, and hope to see some old friends, and make new ones <3 <3 <3
+Hey there Luxembourg, BlackHoodie will be back in your beautiful capital this spring! On May 6th [BSides Luxembourg](https://2026.bsides.lu/) in collaboration with the [Luxembourg House of Cybersecurity](https://www.lhc.lu/) to host BlackHoodie for a day of Linux Forensics. The training is followed by two days of conference, where our attendees are also more than welcome, the BSides ticket is included. What a great opportunity, and our heartfelt thank you to the Luxembourg House of Cybersecurity for their support. We are thrilled to be back in the heart of Europe, and hope to see some old friends, and make new ones <3 <3 <3
 
 
 # **TL;DR:**
 
 **What:** Class on Linux Memory Forensics 
 
-**When:** June 6th 2026
+**When:** May 6th 2026
 
 **Where:** Luxembourg
 
