@@ -2,7 +2,7 @@
 title: "BlackHoodie at OffensiveCon 2026"
 exerpt: "Registration"
 tags: [workshop, conferences, BlackHoodie, OffensiveCon]
-date: 2026-05-14 00:00:00 -0500
+date: 2026-03-31 00:00:00 -0500
 ---
 
 We are excited to bring back BlackHoodie at OffensiveCon!
