@@ -13,3 +13,9 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "erb"
+gem "ostruct"
+gem "bigdecimal"
